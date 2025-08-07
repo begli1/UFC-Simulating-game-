@@ -1,7 +1,7 @@
 {
     "begli": {
         "password": "begli",
-        "Money": 0,
+        "Money": -10070530,
         "event": [
             {
                 "name": "ufc 319",
@@ -10,10 +10,30 @@
             {
                 "name": "UFC 319",
                 "summary": "Event: UFC 319\nTotal Matches: 10\nMatch 1: Dricus Du Plessis vs Khamzat Chimaev - Winner: Khamzat Chimaev\nMatch 2: Aaron Pico vs Lerone Murphy - Winner: Lerone Murphy\nMatch 3: Geoff Neal vs Carlos Prates - Winner: Carlos Prates\nMatch 4: Michael Page vs Jared Cannonier - Winner: Jared Cannonier\nMatch 5: Tim Elliott vs Kai Asakura - Winner: Kai Asakura\nMatch 6: Montserrat Rendon vs Klaudia Sygula - Winner: Klaudia Sygula\nMatch 7: Edmen Shahbazyan vs Cesar Almeida - Winner: Cesar Almeida\nMatch 8: Daniel Zellhuber vs Daniel Zellhuber - Winner: Daniel Zellhuber\nMatch 9: Brogan Walker vs Vanessa Demopoulos - Winner: Vanessa Demopoulos\nMatch 10: Rinya Nakamura vs Cody Garbrandt - Winner: Rinya Nakamura\nTotal PPV Buys: 147969\nTotal Revenue: $1517528"
+            },
+            {
+                "name": "ufc 319",
+                "summary": "Event: ufc 319\nTotal Matches: 10\nMatch 1: Tom Aspinall vs Magomed Ankalaev - Winner: Magomed Ankalaev\nMatch 2: Magomed Ankalaev vs Magomed Ankalaev - Winner: Magomed Ankalaev\nMatch 3: Dricus Du Plessis vs Tom Aspinall - Winner: Tom Aspinall\nMatch 4: Tom Aspinall vs Magomed Ankalaev - Winner: Magomed Ankalaev\nMatch 5: Magomed Ankalaev vs Magomed Ankalaev - Winner: Magomed Ankalaev\nMatch 6: Valentina Shevchenko vs Kayla Harrison - Winner: Valentina Shevchenko\nMatch 7: Zhang Weili vs Kayla Harrison - Winner: Kayla Harrison\nMatch 8: Merab Dvalishvili vs Kayla Harrison - Winner: Kayla Harrison\nMatch 9: Ilia Topuria vs Kayla Harrison - Winner: Kayla Harrison\nMatch 10: Ilia Topuria vs Alexander Volkanovski - Winner: Ilia Topuria\nTotal PPV Buys: 383660\nTotal Revenue: $-2107218"
+            },
+            {
+                "name": "ufc fantasy",
+                "summary": "Event: ufc fantasy\nTotal Matches: 10\nMatch 1: Tom Aspinall vs Magomed Ankalaev - Winner: Magomed Ankalaev\nMatch 2: Tom Aspinall vs Magomed Ankalaev - Winner: Tom Aspinall\nMatch 3: Magomed Ankalaev vs Tom Aspinall - Winner: Tom Aspinall\nMatch 4: Jack Della Maddalena vs Ilia Topuria - Winner: Jack Della Maddalena\nMatch 5: Alexander Volkanovski vs Ilia Topuria - Winner: Alexander Volkanovski\nMatch 6: Ilia Topuria vs Alexander Volkanovski - Winner: Ilia Topuria\nMatch 7: Ilia Topuria vs Alexandre Pantoja - Winner: Alexandre Pantoja\nMatch 8: Merab Dvalishvili vs Alexandre Pantoja - Winner: Merab Dvalishvili\nMatch 9: Kayla Harrison vs Alexandre Pantoja - Winner: Alexandre Pantoja\nMatch 10: Alexander Volkanovski vs Alexandre Pantoja - Winner: Alexander Volkanovski\nTotal PPV Buys: 442604\nTotal Revenue: $-11191669"
+            },
+            {
+                "name": "ufc 300",
+                "summary": "Event: ufc 300\nTotal Matches: 10\nMatch 1: Tom Aspinall vs Magomed Ankalaev - Winner: Tom Aspinall\nMatch 2: Magomed Ankalaev vs Magomed Ankalaev - Winner: Magomed Ankalaev\nMatch 3: Alexander Volkanovski vs Ilia Topuria - Winner: Alexander Volkanovski\nMatch 4: Alexander Volkanovski vs Ilia Topuria - Winner: Ilia Topuria\nMatch 5: Merab Dvalishvili vs Ilia Topuria - Winner: Merab Dvalishvili\nMatch 6: Alexander Volkanovski vs Ilia Topuria - Winner: Ilia Topuria\nMatch 7: Merab Dvalishvili vs Ilia Topuria - Winner: Ilia Topuria\nMatch 8: Merab Dvalishvili vs Merab Dvalishvili - Winner: Merab Dvalishvili\nMatch 9: Alexander Volkanovski vs Merab Dvalishvili - Winner: Merab Dvalishvili\nMatch 10: Alexandre Pantoja vs Merab Dvalishvili - Winner: Merab Dvalishvili\nTotal PPV Buys: 476953\nTotal Revenue: $-8843774"
+            },
+            {
+                "name": "ufc 319",
+                "summary": "Event: ufc 319\nTotal Matches: 10\nMatch 1: Tom Aspinall vs Tom Aspinall - Winner: Tom Aspinall\nMatch 2: Magomed Ankalaev vs Dricus Du Plessis - Winner: Dricus Du Plessis\nMatch 3: Jack Della Maddalena vs Ilia Topuria - Winner: Jack Della Maddalena\nMatch 4: Jack Della Maddalena vs Alexander Volkanovski - Winner: Jack Della Maddalena\nMatch 5: Alexander Volkanovski vs Alexander Volkanovski - Winner: Alexander Volkanovski\nMatch 6: Dricus Du Plessis vs Magomed Ankalaev - Winner: Dricus Du Plessis\nMatch 7: Alexandre Pantoja vs Valentina Shevchenko - Winner: Valentina Shevchenko\nMatch 8: Merab Dvalishvili vs Zhang Weili - Winner: Zhang Weili\nMatch 9: Alexandre Pantoja vs Alexandre Pantoja - Winner: Alexandre Pantoja\nMatch 10: Valentina Shevchenko vs Valentina Shevchenko - Winner: Valentina Shevchenko\nTotal PPV Buys: 335867\nTotal Revenue: $-9130661"
+            },
+            {
+                "name": "ufcldajfasdj ",
+                "summary": "Event: ufcldajfasdj \nTotal Matches: 10\nMatch 1: Magomed Ankalaev vs Magomed Ankalaev - Winner: Magomed Ankalaev\nMatch 2: Magomed Ankalaev vs Tom Aspinall - Winner: Tom Aspinall\nMatch 3: Alexander Volkanovski vs Jack Della Maddalena - Winner: Alexander Volkanovski\nMatch 4: Alexander Volkanovski vs Ilia Topuria - Winner: Ilia Topuria\nMatch 5: Merab Dvalishvili vs Alexander Volkanovski - Winner: Merab Dvalishvili\nMatch 6: Magomed Ankalaev vs Magomed Ankalaev - Winner: Magomed Ankalaev\nMatch 7: Ilia Topuria vs Ilia Topuria - Winner: Ilia Topuria\nMatch 8: Jack Della Maddalena vs Alexander Volkanovski - Winner: Jack Della Maddalena\nMatch 9: Alexander Volkanovski vs Alexander Volkanovski - Winner: Alexander Volkanovski\nMatch 10: Alexander Volkanovski vs Ilia Topuria - Winner: Alexander Volkanovski\nTotal PPV Buys: 413526\nTotal Revenue: $-5917949"
             }
         ],
         "contracts": {
-            "Tom Aspinall": "3000000",
+            "Tom Aspinall": "2000000",
             "Ciryl Gane": "800000",
             "Alexander Volkov": "300000",
             "Sergey Pavlovich": "20000",
@@ -76,7 +96,7 @@
             "Vitor Petrino": "300000",
             "Ivan Erslan": "100000",
             "Jimmy Crute": "300000",
-            "Dricus Du Plessis": "3000000",
+            "Dricus Du Plessis": "4000000",
             "Nassourdine Imavov": "500000",
             "Sean Strickland": "3000000",
             "Khamzat Chimaev": "4000000",
@@ -139,7 +159,7 @@
             "Jose Daniel Medina": "20000",
             "Marc-Andre Barriault": "100000",
             "Dusko Todorovic": "20000",
-            "Jack Della Maddalena": "800000",
+            "Jack Della Maddalena": "2000000",
             "Islam Makhachev": "3000000",
             "Belal Muhammad": "1000000",
             "Sean Brady": "300000",
@@ -218,7 +238,7 @@
             "Court McGee": "100000",
             "Mickey Gall": "100000",
             "Alex Morono": "100000",
-            "Ilia Topuria": "3000000",
+            "Ilia Topuria": "2000000",
             "Arman Tsarukyan": "2000000",
             "Charles Oliveira": "2000000",
             "Justin Gaethje": "3000000",
@@ -312,7 +332,7 @@
             "Ottman Azaitar": "100000",
             "Kyle Prepolec": "20000",
             "Jeremy Stephens": "300000",
-            "Alexander Volkanovski": "3000000",
+            "Alexander Volkanovski": "2000000",
             "Diego Lopes": "800000",
             "Movsar Evloev": "500000",
             "Aaron Pico": "300000",
@@ -460,7 +480,7 @@
             "Saimon Oliveira": "100000",
             "Cameron Saaiman": "300000",
             "Vince Morales": "100000",
-            "Alexandre Pantoja": "3000000",
+            "Alexandre Pantoja": "1000000",
             "Brandon Moreno": "1000000",
             "Brandon Royval": "800000",
             "Manel Kape": "800000",
@@ -543,7 +563,7 @@
             "Maryna Moroz": "20000",
             "Vanessa Demopoulos": "100000",
             "Ariane da Silva": "20000",
-            "Zhang Weili": "500000",
+            "Zhang Weili": "800000",
             "Virna Jandiroba": "300000",
             "Tatiana Suarez": "300000",
             "Yan Xiaonan": "300000",
@@ -580,7 +600,7 @@
             "Montserrat Conejo Ruiz": "20000",
             "Polyana Viana": "100000",
             "Rayanne dos Santos": "20000",
-            "Kayla Harrison": "500000",
+            "Kayla Harrison": "800000",
             "Julianna Pena": "500000",
             "Raquel Pennington": "500000",
             "Ketlen Vieira": "300000",

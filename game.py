@@ -193,7 +193,10 @@ class Event:
         summary.append(f"Total Revenue: ${self.revenue - total_fighter_pay}")
         return "\n".join(summary)
     def get_revenue(self):
-        return self.revenue
+        total_revenue = 0
+        for match in self.matches:
+            total_revenue += match.ppv()
+        return total_revenue - total_fighter_pay
 
 class GameScreen(Screen):
     def __init__(self, **kwargs):
@@ -201,6 +204,7 @@ class GameScreen(Screen):
         self.current_user = None
         global current_user
         current_user = self.current_user 
+        self.db_FILE = db_FILE
         
         
         
@@ -396,15 +400,21 @@ class GameScreen(Screen):
         main_card.bind(on_text_validate= self.name_card)
 
 #------------------------------------------------------------------------------------------------------
-        money_data = load_users()
-        label_money = Label(
-            text=f"Current Money: ${money_data[current_user]['Money']}",
-            font_size=25,
-            color=(0, 1, 0, 1),
+
+
+        money_button = Button(
+            text='Show Money',
             size_hint=(None, None),
-            size=(200, 60),
-            pos_hint={'center_x': 0.5, 'top': 0.94}
+            size=(150, 60),
+            pos_hint={'center_x': 0.5, 'top': 0.93},
+            font_size=20,
+            background_color=(0, 1, 0, 1)
         )
+        money_button.bind(on_press=self.update_money_label)
+        layout.add_widget(money_button)
+
+
+
         btn = Button(text='History', size_hint=(None, None), size=(150, 60), pos_hint={'center_x': 0.92, 'center_y': 0.97}, font_size=20, background_color=(1, 0, 0, 1))
         btn.bind(on_press=self.switch_to_history)
         layout.add_widget(btn)
@@ -929,6 +939,34 @@ class GameScreen(Screen):
             size=(200, 40),)
         self.layout.add_widget(label12)
 
+    
+    def update_money_label(self, instance):
+        self.layout.remove_widget(instance)
+        try:
+            with open(self.db_FILE, 'r') as f:
+                money_data = json.load(f)
+            money = money_data.get(self.current_user, {}).get("Money", 0)
+        except Exception:
+            money = 0
+
+        self.money_label = Label(
+            text=f"Current Money ${money}",
+            font_size=25,
+            color=(0, 1, 0, 1),
+            size_hint=(None, None),
+            size=(200, 60),
+            pos_hint={'center_x': 0.5, 'top': 0.94}
+        )
+        self.layout.add_widget(self.money_label)
+        
+    def update_money_shown(self):
+        try:
+            with open(self.db_FILE, 'r') as f:
+                money_data = json.load(f)
+            money = money_data.get(self.current_user, {}).get("Money", 0)
+        except Exception:
+            money = 0
+        self.money_label.text = f"Current Money ${money}"
 
     def start_new(self, instance):
         try:
@@ -1068,12 +1106,16 @@ class GameScreen(Screen):
             fighter_data_users[self.current_user]["fighters"] = fighter_data1
         save_users_fighters(fighter_data_users)
 
-        
-        if self.current_user and self.current_user in users:
-            contracts = users[self.current_user]["contracts"]
-            money = users[self.current_user]["Money"]
-            new_money = money + revenue
-            users[self.current_user]["Money"] = new_money
+
+        reload = load_users()
+        if self.current_user and self.current_user in reload:
+            contracts = reload[self.current_user]["contracts"]
+            money = reload.get(self.current_user).get("Money")
+            new_money = int(money) + int(revenue)
+            print(revenue)
+            print(money)
+            print(new_money)
+            reload[self.current_user]["Money"] = new_money
             for fighter in contracts:
                 popularity = fighter_data1.get(fighter, {}).get('popularity', 0)
                 if popularity <= 25:
@@ -1094,7 +1136,8 @@ class GameScreen(Screen):
                     contracts[fighter] = "3000000"
                 else:
                     contracts[fighter] = "4000000"
-            save_users(users)
+            save_users(reload)
+            self.update_money_shown()
 
 
         

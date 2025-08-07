@@ -4,10 +4,10 @@
             "Tom Aspinall": {
                 "name": "Tom Aspinall",
                 "division": "Heavyweight",
-                "power": 95,
-                "speed": 88,
-                "grappling": 90,
-                "popularity": 91
+                "power": 101,
+                "speed": 97,
+                "grappling": 99,
+                "popularity": 86
             },
             "Ciryl Gane": {
                 "name": "Ciryl Gane",
@@ -236,10 +236,10 @@
             "Magomed Ankalaev": {
                 "name": "Magomed Ankalaev",
                 "division": "Light Heavyweight",
-                "power": 87,
-                "speed": 87,
-                "grappling": 86,
-                "popularity": 79
+                "power": 83,
+                "speed": 85,
+                "grappling": 78,
+                "popularity": 78
             },
             "Alex Pereira": {
                 "name": "Alex Pereira",
@@ -508,10 +508,10 @@
             "Dricus Du Plessis": {
                 "name": "Dricus Du Plessis",
                 "division": "Middleweight",
-                "power": 91,
-                "speed": 82,
-                "grappling": 81,
-                "popularity": 92
+                "power": 89,
+                "speed": 88,
+                "grappling": 79,
+                "popularity": 99
             },
             "Nassourdine Imavov": {
                 "name": "Nassourdine Imavov",
@@ -1012,10 +1012,10 @@
             "Jack Della Maddalena": {
                 "name": "Jack Della Maddalena",
                 "division": "Welterweight",
-                "power": 87,
+                "power": 86,
                 "speed": 85,
-                "grappling": 75,
-                "popularity": 78
+                "grappling": 78,
+                "popularity": 88
             },
             "Islam Makhachev": {
                 "name": "Islam Makhachev",
@@ -1644,10 +1644,10 @@
             "Ilia Topuria": {
                 "name": "Ilia Topuria",
                 "division": "Lightweight",
-                "power": 88,
-                "speed": 85,
-                "grappling": 86,
-                "popularity": 95
+                "power": 98,
+                "speed": 79,
+                "grappling": 85,
+                "popularity": 86
             },
             "Arman Tsarukyan": {
                 "name": "Arman Tsarukyan",
@@ -2396,10 +2396,10 @@
             "Alexander Volkanovski": {
                 "name": "Alexander Volkanovski",
                 "division": "Featherweight",
-                "power": 90,
-                "speed": 90,
-                "grappling": 80,
-                "popularity": 92
+                "power": 76,
+                "speed": 96,
+                "grappling": 61,
+                "popularity": 86
             },
             "Diego Lopes": {
                 "name": "Diego Lopes",
@@ -2964,10 +2964,10 @@
             "Merab Dvalishvili": {
                 "name": "Merab Dvalishvili",
                 "division": "Bantamweight",
-                "power": 82,
-                "speed": 86,
-                "grappling": 90,
-                "popularity": 97
+                "power": 78,
+                "speed": 84,
+                "grappling": 98,
+                "popularity": 96
             },
             "Sean O'Malley": {
                 "name": "Sean O'Malley",
@@ -3580,10 +3580,10 @@
             "Alexandre Pantoja": {
                 "name": "Alexandre Pantoja",
                 "division": "Flyweight",
-                "power": 86,
-                "speed": 82,
-                "grappling": 91,
-                "popularity": 91
+                "power": 74,
+                "speed": 79,
+                "grappling": 86,
+                "popularity": 84
             },
             "Brandon Moreno": {
                 "name": "Brandon Moreno",
@@ -3932,10 +3932,10 @@
             "Valentina Shevchenko": {
                 "name": "Valentina Shevchenko",
                 "division": "Women's Flyweight",
-                "power": 85,
-                "speed": 88,
-                "grappling": 90,
-                "popularity": 65
+                "power": 89,
+                "speed": 90,
+                "grappling": 95,
+                "popularity": 69
             },
             "Natalia Silva": {
                 "name": "Natalia Silva",
@@ -4244,10 +4244,10 @@
             "Zhang Weili": {
                 "name": "Zhang Weili",
                 "division": "Women's Strawweight",
-                "power": 86,
-                "speed": 84,
-                "grappling": 84,
-                "popularity": 68
+                "power": 85,
+                "speed": 87,
+                "grappling": 80,
+                "popularity": 71
             },
             "Virna Jandiroba": {
                 "name": "Virna Jandiroba",
@@ -4540,10 +4540,10 @@
             "Kayla Harrison": {
                 "name": "Kayla Harrison",
                 "division": "Women's Bantamweight",
-                "power": 90,
-                "speed": 80,
-                "grappling": 97,
-                "popularity": 68
+                "power": 96,
+                "speed": 81,
+                "grappling": 99,
+                "popularity": 73
             },
             "Julianna Pena": {
                 "name": "Julianna Pena",
