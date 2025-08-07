@@ -192,6 +192,8 @@ class Event:
         summary.append(f"Total PPV Buys: {rounded_ppv}")
         summary.append(f"Total Revenue: ${self.revenue - total_fighter_pay}")
         return "\n".join(summary)
+    def get_revenue(self):
+        return self.revenue
 
 class GameScreen(Screen):
     def __init__(self, **kwargs):
@@ -394,6 +396,15 @@ class GameScreen(Screen):
         main_card.bind(on_text_validate= self.name_card)
 
 #------------------------------------------------------------------------------------------------------
+        money_data = load_users()
+        label_money = Label(
+            text=f"Current Money: ${money_data[current_user]['Money']}",
+            font_size=25,
+            color=(0, 1, 0, 1),
+            size_hint=(None, None),
+            size=(200, 60),
+            pos_hint={'center_x': 0.5, 'top': 0.94}
+        )
         btn = Button(text='History', size_hint=(None, None), size=(150, 60), pos_hint={'center_x': 0.92, 'center_y': 0.97}, font_size=20, background_color=(1, 0, 0, 1))
         btn.bind(on_press=self.switch_to_history)
         layout.add_widget(btn)
@@ -1039,6 +1050,7 @@ class GameScreen(Screen):
         event.add_match(match8)
         event.add_match(match9)
         event.run_event()
+        revenue = event.get_revenue()
         summary = event.event_summary()
         global users
         users = load_users()
@@ -1059,6 +1071,9 @@ class GameScreen(Screen):
         
         if self.current_user and self.current_user in users:
             contracts = users[self.current_user]["contracts"]
+            money = users[self.current_user]["Money"]
+            new_money = money + revenue
+            users[self.current_user]["Money"] = new_money
             for fighter in contracts:
                 popularity = fighter_data1.get(fighter, {}).get('popularity', 0)
                 if popularity <= 25:

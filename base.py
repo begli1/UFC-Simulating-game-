@@ -226,7 +226,7 @@ class Signup(Screen):
         elif uname == "" or pwd == "":
             self.message.text = "Fields can't be empty."
         else:
-            users[uname] = {"password": pwd, "event":[], "contracts": generate_all_contracts()}
+            users[uname] = {"password": pwd, "event":[], "contracts": generate_all_contracts(), "Money": 0}
             fighters_database_users[uname] = {"fighters": fighter_d}
 
             save_users(users)
