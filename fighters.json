@@ -1,0 +1,4738 @@
+{
+  "Tom Aspinall": {
+    "name": "Tom Aspinall",
+    "division": "Heavyweight",
+    "power": 92,
+    "speed": 87,
+    "grappling": 88,
+    "popularity": 90
+  },
+  "Ciryl Gane": {
+    "name": "Ciryl Gane",
+    "division": "Heavyweight",
+    "power": 87,
+    "speed": 90,
+    "grappling": 80,
+    "popularity": 78
+  },
+  "Alexander Volkov": {
+    "name": "Alexander Volkov",
+    "division": "Heavyweight",
+    "power": 88,
+    "speed": 78,
+    "grappling": 75,
+    "popularity": 60
+  },
+  "Sergei Pavlovich": {
+    "name": "Sergey Pavlovich",
+    "division": "Heavyweight",
+    "power": 94,
+    "speed": 75,
+    "grappling": 65,
+    "popularity": 55
+  },
+  "Curtis Blaydes": {
+    "name": "Curtis Blaydes",
+    "division": "Heavyweight",
+    "power": 85,
+    "speed": 70,
+    "grappling": 92,
+    "popularity": 50
+  },
+  "Jailton Almeida": {
+    "name": "Jailton Almeida",
+    "division": "Heavyweight",
+    "power": 82,
+    "speed": 75,
+    "grappling": 90,
+    "popularity": 58
+  },
+  "Waldo Cortes-Acosta": {
+    "name": "Waldo Cortes-Acosta",
+    "division": "Heavyweight",
+    "power": 84,
+    "speed": 70,
+    "grappling": 60,
+    "popularity": 35
+  },
+  "Marcin Tybura": {
+    "name": "Marcin Tybura",
+    "division": "Heavyweight",
+    "power": 80,
+    "speed": 68,
+    "grappling": 80,
+    "popularity": 45
+  },
+  "Serghei Spivac": {
+    "name": "Serghei Spivac",
+    "division": "Heavyweight",
+    "power": 85,
+    "speed": 68,
+    "grappling": 88,
+    "popularity": 48
+  },
+  "Derrick Lewis": {
+    "name": "Derrick Lewis",
+    "division": "Heavyweight",
+    "power": 96,
+    "speed": 60,
+    "grappling": 55,
+    "popularity": 80
+  },
+  "Tai Tuivasa": {
+    "name": "Tai Tuivasa",
+    "division": "Heavyweight",
+    "power": 89,
+    "speed": 65,
+    "grappling": 60,
+    "popularity": 70
+  },
+  "Shamil Gaziev": {
+    "name": "Shamil Gaziev",
+    "division": "Heavyweight",
+    "power": 88,
+    "speed": 65,
+    "grappling": 70,
+    "popularity": 35
+  },
+  "Mick Parkin": {
+    "name": "Mick Parkin",
+    "division": "Heavyweight",
+    "power": 80,
+    "speed": 65,
+    "grappling": 75,
+    "popularity": 28
+  },
+  "Tallison Teixeira": {
+    "name": "Tallison Teixeira",
+    "division": "Heavyweight",
+    "power": 78,
+    "speed": 62,
+    "grappling": 70,
+    "popularity": 22
+  },
+  "Jhonata Diniz": {
+    "name": "Jhonata Diniz",
+    "division": "Heavyweight",
+    "power": 87,
+    "speed": 70,
+    "grappling": 60,
+    "popularity": 30
+  },
+  "Martin Buday": {
+    "name": "Martin Buday",
+    "division": "Heavyweight",
+    "power": 79,
+    "speed": 62,
+    "grappling": 72,
+    "popularity": 33
+  },
+  "Kennedy Nzechukwu": {
+    "name": "Kennedy Nzechukwu",
+    "division": "Heavyweight",
+    "power": 83,
+    "speed": 72,
+    "grappling": 65,
+    "popularity": 40
+  },
+  "Mario Pinto": {
+    "name": "Mario Pinto",
+    "division": "Heavyweight",
+    "power": 76,
+    "speed": 60,
+    "grappling": 68,
+    "popularity": 20
+  },
+  "Hamdy Abdelwahab": {
+    "name": "Hamdy Abdelwahab",
+    "division": "Heavyweight",
+    "power": 80,
+    "speed": 60,
+    "grappling": 85,
+    "popularity": 25
+  },
+  "Thomas Petersen": {
+    "name": "Thomas Petersen",
+    "division": "Heavyweight",
+    "power": 79,
+    "speed": 63,
+    "grappling": 72,
+    "popularity": 24
+  },
+  "Valter Walker": {
+    "name": "Valter Walker",
+    "division": "Heavyweight",
+    "power": 77,
+    "speed": 65,
+    "grappling": 70,
+    "popularity": 26
+  },
+  "Ryan Spann": {
+    "name": "Ryan Spann",
+    "division": "Light Heavyweight",
+    "power": 83,
+    "speed": 78,
+    "grappling": 75,
+    "popularity": 45
+  },
+  "Junior Tafa": {
+    "name": "Junior Tafa",
+    "division": "Heavyweight",
+    "power": 85,
+    "speed": 68,
+    "grappling": 55,
+    "popularity": 30
+  },
+  "Chris Barnett": {
+    "name": "Chris Barnett",
+    "division": "Heavyweight",
+    "power": 88,
+    "speed": 60,
+    "grappling": 60,
+    "popularity": 38
+  },
+  "Sean Sharaf": {
+    "name": "Sean Sharaf",
+    "division": "Heavyweight",
+    "power": 75,
+    "speed": 58,
+    "grappling": 65,
+    "popularity": 18
+  },
+  "Austen Lane": {
+    "name": "Austen Lane",
+    "division": "Heavyweight",
+    "power": 80,
+    "speed": 68,
+    "grappling": 65,
+    "popularity": 28
+  },
+  "Mohammed Usman": {
+    "name": "Mohammed Usman",
+    "division": "Heavyweight",
+    "power": 80,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 35
+  },
+  "Justin Tafa": {
+    "name": "Justin Tafa",
+    "division": "Heavyweight",
+    "power": 90,
+    "speed": 60,
+    "grappling": 50,
+    "popularity": 32
+  },
+  "Lukasz Brzeski": {
+    "name": "Lukasz Brzeski",
+    "division": "Heavyweight",
+    "power": 75,
+    "speed": 60,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "Magomed Ankalaev": {
+    "name": "Magomed Ankalaev",
+    "division": "Light Heavyweight",
+    "power": 90,
+    "speed": 85,
+    "grappling": 85,
+    "popularity": 82
+  },
+  "Alex Pereira": {
+    "name": "Alex Pereira",
+    "division": "Light Heavyweight",
+    "power": 95,
+    "speed": 87,
+    "grappling": 80,
+    "popularity": 98
+  },
+  "Jiri Prochazka": {
+    "name": "Jiri Prochazka",
+    "division": "Light Heavyweight",
+    "power": 92,
+    "speed": 85,
+    "grappling": 78,
+    "popularity": 90
+  },
+  "Carlos Ulberg": {
+    "name": "Carlos Ulberg",
+    "division": "Light Heavyweight",
+    "power": 87,
+    "speed": 80,
+    "grappling": 60,
+    "popularity": 40
+  },
+  "Jamahal Hill": {
+    "name": "Jamahal Hill",
+    "division": "Light Heavyweight",
+    "power": 88,
+    "speed": 82,
+    "grappling": 75,
+    "popularity": 80
+  },
+  "Jan Blachowicz": {
+    "name": "Jan Blachowicz",
+    "division": "Light Heavyweight",
+    "power": 89,
+    "speed": 78,
+    "grappling": 80,
+    "popularity": 75
+  },
+  "Aleksandar Rakic": {
+    "name": "Aleksandar Rakic",
+    "division": "Light Heavyweight",
+    "power": 89,
+    "speed": 80,
+    "grappling": 78,
+    "popularity": 70
+  },
+  "Khalil Rountree Jr.": {
+    "name": "Khalil Rountree Jr.",
+    "division": "Light Heavyweight",
+    "power": 88,
+    "speed": 80,
+    "grappling": 68,
+    "popularity": 62
+  },
+  "Dominick Reyes": {
+    "name": "Dominick Reyes",
+    "division": "Light Heavyweight",
+    "power": 86,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 65
+  },
+  "Volkan Oezdemir": {
+    "name": "Volkan Oezdemir",
+    "division": "Light Heavyweight",
+    "power": 85,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 58
+  },
+  "Nikita Krylov": {
+    "name": "Nikita Krylov",
+    "division": "Light Heavyweight",
+    "power": 82,
+    "speed": 80,
+    "grappling": 75,
+    "popularity": 55
+  },
+  "Azamat Murzakanov": {
+    "name": "Azamat Murzakanov",
+    "division": "Light Heavyweight",
+    "power": 85,
+    "speed": 75,
+    "grappling": 80,
+    "popularity": 40
+  },
+  "Johnny Walker": {
+    "name": "Johnny Walker",
+    "division": "Light Heavyweight",
+    "power": 87,
+    "speed": 85,
+    "grappling": 70,
+    "popularity": 65
+  },
+  "Bogdan Guskov": {
+    "name": "Bogdan Guskov",
+    "division": "Light Heavyweight",
+    "power": 83,
+    "speed": 75,
+    "grappling": 60,
+    "popularity": 30
+  },
+  "Zhang Mingyang": {
+    "name": "Zhang Mingyang",
+    "division": "Light Heavyweight",
+    "power": 85,
+    "speed": 70,
+    "grappling": 65,
+    "popularity": 30
+  },
+  "Alonzo Menifield": {
+    "name": "Alonzo Menifield",
+    "division": "Light Heavyweight",
+    "power": 84,
+    "speed": 72,
+    "grappling": 68,
+    "popularity": 38
+  },
+  "Navajo Stirling": {
+    "name": "Navajo Stirling",
+    "division": "Light Heavyweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 72,
+    "popularity": 25
+  },
+  "Rodolfo Bellato": {
+    "name": "Rodolfo Bellato",
+    "division": "Light Heavyweight",
+    "power": 80,
+    "speed": 68,
+    "grappling": 85,
+    "popularity": 28
+  },
+  "Nicolae Negumereanu": {
+    "name": "Nicolae Negumereanu",
+    "division": "Light Heavyweight",
+    "power": 77,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 25
+  },
+  "Ibo Aslan": {
+    "name": "Ibo Aslan",
+    "division": "Light Heavyweight",
+    "power": 83,
+    "speed": 72,
+    "grappling": 65,
+    "popularity": 27
+  },
+  "Oumar Sy": {
+    "name": "Oumar Sy",
+    "division": "Light Heavyweight",
+    "power": 79,
+    "speed": 68,
+    "grappling": 82,
+    "popularity": 26
+  },
+  "Ozzy Diaz": {
+    "name": "Ozzy Diaz",
+    "division": "Middleweight",
+    "power": 77,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 24
+  },
+  "Billy Elekana": {
+    "name": "Billy Elekana",
+    "division": "Light Heavyweight",
+    "power": 76,
+    "speed": 67,
+    "grappling": 69,
+    "popularity": 23
+  },
+  "Bruno Lopes": {
+    "name": "Bruno Lopes",
+    "division": "Light Heavyweight",
+    "power": 81,
+    "speed": 70,
+    "grappling": 68,
+    "popularity": 25
+  },
+  "Ion Cutelaba": {
+    "name": "Ion Cutelaba",
+    "division": "Light Heavyweight",
+    "power": 88,
+    "speed": 70,
+    "grappling": 70,
+    "popularity": 50
+  },
+  "Julius Walker": {
+    "name": "Julius Walker",
+    "division": "Light Heavyweight",
+    "power": 77,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 22
+  },
+  "Paul Craig": {
+    "name": "Paul Craig",
+    "division": "Middleweight",
+    "power": 78,
+    "speed": 68,
+    "grappling": 85,
+    "popularity": 40
+  },
+  "Rafael Cerqueira": {
+    "name": "Rafael Cerqueira",
+    "division": "Light Heavyweight",
+    "power": 79,
+    "speed": 70,
+    "grappling": 80,
+    "popularity": 24
+  },
+  "Diyar Nurgozhay": {
+    "name": "Diyar Nurgozhay",
+    "division": "Light Heavyweight",
+    "power": 76,
+    "speed": 67,
+    "grappling": 69,
+    "popularity": 21
+  },
+  "Brendson Ribeiro": {
+    "name": "Brendson Ribeiro",
+    "division": "Light Heavyweight",
+    "power": 82,
+    "speed": 73,
+    "grappling": 65,
+    "popularity": 26
+  },
+  "Marcin Prachnio": {
+    "name": "Marcin Prachnio",
+    "division": "Light Heavyweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 60,
+    "popularity": 29
+  },
+  "Vitor Petrino": {
+    "name": "Vitor Petrino",
+    "division": "Light Heavyweight",
+    "power": 86,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 42
+  },
+  "Ivan Erslan": {
+    "name": "Ivan Erslan",
+    "division": "Light Heavyweight",
+    "power": 87,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 35
+  },
+  "Jimmy Crute": {
+    "name": "Jimmy Crute",
+    "division": "Light Heavyweight",
+    "power": 84,
+    "speed": 75,
+    "grappling": 80,
+    "popularity": 42
+  },
+  "Dricus Du Plessis": {
+    "name": "Dricus Du Plessis",
+    "division": "Middleweight",
+    "power": 88,
+    "speed": 82,
+    "grappling": 80,
+    "popularity": 90
+  },
+  "Nassourdine Imavov": {
+    "name": "Nassourdine Imavov",
+    "division": "Middleweight",
+    "power": 85,
+    "speed": 80,
+    "grappling": 75,
+    "popularity": 62
+  },
+  "Sean Strickland": {
+    "name": "Sean Strickland",
+    "division": "Middleweight",
+    "power": 83,
+    "speed": 75,
+    "grappling": 72,
+    "popularity": 92
+  },
+  "Khamzat Chimaev": {
+    "name": "Khamzat Chimaev",
+    "division": "Middleweight",
+    "power": 90,
+    "speed": 88,
+    "grappling": 90,
+    "popularity": 93
+  },
+  "Israel Adesanya": {
+    "name": "Israel Adesanya",
+    "division": "Middleweight",
+    "power": 88,
+    "speed": 95,
+    "grappling": 70,
+    "popularity": 95
+  },
+  "Robert Whittaker": {
+    "name": "Robert Whittaker",
+    "division": "Middleweight",
+    "power": 85,
+    "speed": 85,
+    "grappling": 78,
+    "popularity": 88
+  },
+  "Caio Borralho": {
+    "name": "Caio Borralho",
+    "division": "Middleweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 82,
+    "popularity": 50
+  },
+  "Jared Cannonier": {
+    "name": "Jared Cannonier",
+    "division": "Middleweight",
+    "power": 86,
+    "speed": 78,
+    "grappling": 77,
+    "popularity": 70
+  },
+  "Roman Dolidze": {
+    "name": "Roman Dolidze",
+    "division": "Middleweight",
+    "power": 84,
+    "speed": 75,
+    "grappling": 85,
+    "popularity": 60
+  },
+  "Anthony Hernandez": {
+    "name": "Anthony Hernandez",
+    "division": "Middleweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 85,
+    "popularity": 52
+  },
+  "Brendan Allen": {
+    "name": "Brendan Allen",
+    "division": "Middleweight",
+    "power": 82,
+    "speed": 78,
+    "grappling": 88,
+    "popularity": 65
+  },
+  "Marvin Vettori": {
+    "name": "Marvin Vettori",
+    "division": "Middleweight",
+    "power": 83,
+    "speed": 75,
+    "grappling": 82,
+    "popularity": 72
+  },
+  "Reinier de Ridder": {
+    "name": "Reinier de Ridder",
+    "division": "Middleweight",
+    "power": 80,
+    "speed": 72,
+    "grappling": 95,
+    "popularity": 70
+  },
+  "Paulo Costa": {
+    "name": "Paulo Costa",
+    "division": "Middleweight",
+    "power": 90,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 85
+  },
+  "Roman Kopylov": {
+    "name": "Roman Kopylov",
+    "division": "Middleweight",
+    "power": 87,
+    "speed": 80,
+    "grappling": 68,
+    "popularity": 50
+  },
+  "Abus Magomedov": {
+    "name": "Abus Magomedov",
+    "division": "Middleweight",
+    "power": 86,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 48
+  },
+  "Joe Pyfer": {
+    "name": "Joe Pyfer",
+    "division": "Middleweight",
+    "power": 87,
+    "speed": 78,
+    "grappling": 72,
+    "popularity": 50
+  },
+  "Nursulton Ruziboev": {
+    "name": "Nursulton Ruziboev",
+    "division": "Middleweight",
+    "power": 89,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 55
+  },
+  "Jack Hermansson": {
+    "name": "Jack Hermansson",
+    "division": "Middleweight",
+    "power": 84,
+    "speed": 75,
+    "grappling": 82,
+    "popularity": 60
+  },
+  "Michel Pereira": {
+    "name": "Michel Pereira",
+    "division": "Middleweight",
+    "power": 85,
+    "speed": 90,
+    "grappling": 75,
+    "popularity": 80
+  },
+  "Bo Nickal": {
+    "name": "Bo Nickal",
+    "division": "Middleweight",
+    "power": 80,
+    "speed": 80,
+    "grappling": 98,
+    "popularity": 85
+  },
+  "Gregory Rodrigues": {
+    "name": "Gregory Rodrigues",
+    "division": "Middleweight",
+    "power": 86,
+    "speed": 75,
+    "grappling": 78,
+    "popularity": 45
+  },
+  "Ikram Aliskerov": {
+    "name": "Ikram Aliskerov",
+    "division": "Middleweight",
+    "power": 85,
+    "speed": 77,
+    "grappling": 80,
+    "popularity": 55
+  },
+  "Michael Page": {
+    "name": "Michael Page",
+    "division": "Welterweight",
+    "power": 90,
+    "speed": 92,
+    "grappling": 60,
+    "popularity": 78
+  },
+  "Mansur Abdul-Malik": {
+    "name": "Mansur Abdul-Malik",
+    "division": "Middleweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 75,
+    "popularity": 25
+  },
+  "Kelvin Gastelum": {
+    "name": "Kelvin Gastelum",
+    "division": "Middleweight",
+    "power": 85,
+    "speed": 78,
+    "grappling": 75,
+    "popularity": 68
+  },
+  "Azamat Bekoev": {
+    "name": "Azamat Bekoev",
+    "division": "Middleweight",
+    "power": 79,
+    "speed": 68,
+    "grappling": 82,
+    "popularity": 26
+  },
+  "Brunno Ferreira": {
+    "name": "Brunno Ferreira",
+    "division": "Middleweight",
+    "power": 86,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 30
+  },
+  "Shara Magomedov": {
+    "name": "Shara Magomedov",
+    "division": "Middleweight",
+    "power": 90,
+    "speed": 85,
+    "grappling": 65,
+    "popularity": 75
+  },
+  "Jacob Malkoun": {
+    "name": "Jacob Malkoun",
+    "division": "Middleweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 78,
+    "popularity": 28
+  },
+  "Marco Tulio": {
+    "name": "Marco Tulio",
+    "division": "Middleweight",
+    "power": 77,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 22
+  },
+  "Cesar Almeida": {
+    "name": "Cesar Almeida",
+    "division": "Middleweight",
+    "power": 85,
+    "speed": 78,
+    "grappling": 60,
+    "popularity": 35
+  },
+  "Chris Curtis": {
+    "name": "Chris Curtis",
+    "division": "Middleweight",
+    "power": 87,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 60
+  },
+  "Ateba Gautier": {
+    "name": "Ateba Gautier",
+    "division": "Middleweight",
+    "power": 76,
+    "speed": 67,
+    "grappling": 69,
+    "popularity": 20
+  },
+  "Rodolfo Vieira": {
+    "name": "Rodolfo Vieira",
+    "division": "Middleweight",
+    "power": 75,
+    "speed": 65,
+    "grappling": 95,
+    "popularity": 45
+  },
+  "Aliaskhab Khizriev": {
+    "name": "Aliaskhab Khizriev",
+    "division": "Middleweight",
+    "power": 82,
+    "speed": 75,
+    "grappling": 88,
+    "popularity": 30
+  },
+  "Torrez Finney": {
+    "name": "Torrez Finney",
+    "division": "Middleweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 18
+  },
+  "Ismail Naurdiev": {
+    "name": "Ismail Naurdiev",
+    "division": "Welterweight",
+    "power": 81,
+    "speed": 75,
+    "grappling": 75,
+    "popularity": 28
+  },
+  "Edmen Shahbazyan": {
+    "name": "Edmen Shahbazyan",
+    "division": "Middleweight",
+    "power": 85,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 40
+  },
+  "JunYong Park": {
+    "name": "JunYong Park",
+    "division": "Middleweight",
+    "power": 82,
+    "speed": 78,
+    "grappling": 72,
+    "popularity": 35
+  },
+  "Christian Leroy Duncan": {
+    "name": "Christian Leroy Duncan",
+    "division": "Middleweight",
+    "power": 85,
+    "speed": 85,
+    "grappling": 65,
+    "popularity": 40
+  },
+  "Andre Petroski": {
+    "name": "Andre Petroski",
+    "division": "Middleweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 85,
+    "popularity": 30
+  },
+  "Cody Brundage": {
+    "name": "Cody Brundage",
+    "division": "Middleweight",
+    "power": 77,
+    "speed": 68,
+    "grappling": 80,
+    "popularity": 28
+  },
+  "Andre Muniz": {
+    "name": "Andre Muniz",
+    "division": "Middleweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 90,
+    "popularity": 55
+  },
+  "Zachary Reese": {
+    "name": "Zachary Reese",
+    "division": "Middleweight",
+    "power": 76,
+    "speed": 67,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "Eric McConico": {
+    "name": "Eric McConico",
+    "division": "Middleweight",
+    "power": 75,
+    "speed": 66,
+    "grappling": 68,
+    "popularity": 19
+  },
+  "Nick Klein": {
+    "name": "Nick Klein",
+    "division": "Middleweight",
+    "power": 77,
+    "speed": 69,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "Tresean Gore": {
+    "name": "Tresean Gore",
+    "division": "Middleweight",
+    "power": 83,
+    "speed": 72,
+    "grappling": 75,
+    "popularity": 30
+  },
+  "Eryk Anders": {
+    "name": "Eryk Anders",
+    "division": "Middleweight",
+    "power": 80,
+    "speed": 70,
+    "grappling": 72,
+    "popularity": 32
+  },
+  "Robert Bryczek": {
+    "name": "Robert Bryczek",
+    "division": "Middleweight",
+    "power": 86,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 35
+  },
+  "Ryan Loder": {
+    "name": "Ryan Loder",
+    "division": "Middleweight",
+    "power": 76,
+    "speed": 67,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "Nick Diaz": {
+    "name": "Nick Diaz",
+    "division": "Middleweight",
+    "power": 80,
+    "speed": 70,
+    "grappling": 70,
+    "popularity": 70
+  },
+  "Andrey Pulyaev": {
+    "name": "Andrey Pulyaev",
+    "division": "Middleweight",
+    "power": 75,
+    "speed": 66,
+    "grappling": 68,
+    "popularity": 19
+  },
+  "Michal Oleksiejczuk": {
+    "name": "Michal Oleksiejczuk",
+    "division": "Middleweight",
+    "power": 87,
+    "speed": 75,
+    "grappling": 60,
+    "popularity": 38
+  },
+  "Sedriques Dumas": {
+    "name": "Sedriques Dumas",
+    "division": "Middleweight",
+    "power": 79,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 30
+  },
+  "Kamaru Usman": {
+    "name": "Kamaru Usman",
+    "division": "Welterweight",
+    "power": 90,
+    "speed": 88,
+    "grappling": 95,
+    "popularity": 97
+  },
+  "Robert Valentin": {
+    "name": "Robert Valentin",
+    "division": "Middleweight",
+    "power": 76,
+    "speed": 67,
+    "grappling": 69,
+    "popularity": 19
+  },
+  "Antonio Trocoli": {
+    "name": "Antonio Trocoli",
+    "division": "Middleweight",
+    "power": 77,
+    "speed": 68,
+    "grappling": 80,
+    "popularity": 22
+  },
+  "Dustin Stoltzfus": {
+    "name": "Dustin Stoltzfus",
+    "division": "Middleweight",
+    "power": 79,
+    "speed": 70,
+    "grappling": 75,
+    "popularity": 25
+  },
+  "Gerald Meerschaert": {
+    "name": "Gerald Meerschaert",
+    "division": "Middleweight",
+    "power": 80,
+    "speed": 70,
+    "grappling": 78,
+    "popularity": 35
+  },
+  "Jose Daniel Medina": {
+    "name": "Jose Daniel Medina",
+    "division": "Middleweight",
+    "power": 75,
+    "speed": 66,
+    "grappling": 68,
+    "popularity": 18
+  },
+  "Marc-Andre Barriault": {
+    "name": "Marc-Andre Barriault",
+    "division": "Middleweight",
+    "power": 82,
+    "speed": 70,
+    "grappling": 70,
+    "popularity": 32
+  },
+  "Dusko Todorovic": {
+    "name": "Dusko Todorovic",
+    "division": "Middleweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 65,
+    "popularity": 25
+  },
+  "Jack Della Maddalena": {
+    "name": "Jack Della Maddalena",
+    "division": "Welterweight",
+    "power": 87,
+    "speed": 85,
+    "grappling": 75,
+    "popularity": 78
+  },
+  "Islam Makhachev": {
+    "name": "Islam Makhachev",
+    "division": "Welterweight",
+    "power": 87,
+    "speed": 85,
+    "grappling": 98,
+    "popularity": 95
+  },
+  "Belal Muhammad": {
+    "name": "Belal Muhammad",
+    "division": "Welterweight",
+    "power": 82,
+    "speed": 80,
+    "grappling": 88,
+    "popularity": 85
+  },
+  "Sean Brady": {
+    "name": "Sean Brady",
+    "division": "Welterweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 88,
+    "popularity": 60
+  },
+  "Shavkat Rakhmonov": {
+    "name": "Shavkat Rakhmonov",
+    "division": "Welterweight",
+    "power": 89,
+    "speed": 82,
+    "grappling": 85,
+    "popularity": 88
+  },
+  "Leon Edwards": {
+    "name": "Leon Edwards",
+    "division": "Welterweight",
+    "power": 88,
+    "speed": 88,
+    "grappling": 85,
+    "popularity": 92
+  },
+  "Ian Machado Garry": {
+    "name": "Ian Garry",
+    "division": "Welterweight",
+    "power": 85,
+    "speed": 82,
+    "grappling": 70,
+    "popularity": 80
+  },
+  "Joaquin Buckley": {
+    "name": "Joaquin Buckley",
+    "division": "Welterweight",
+    "power": 88,
+    "speed": 80,
+    "grappling": 65,
+    "popularity": 70
+  },
+  "Michael Morales": {
+    "name": "Michael Morales",
+    "division": "Welterweight",
+    "power": 86,
+    "speed": 80,
+    "grappling": 70,
+    "popularity": 60
+  },
+  "Colby Covington": {
+    "name": "Colby Covington",
+    "division": "Welterweight",
+    "power": 80,
+    "speed": 85,
+    "grappling": 92,
+    "popularity": 85
+  },
+  "Gilbert Burns": {
+    "name": "Gilbert Burns",
+    "division": "Welterweight",
+    "power": 88,
+    "speed": 78,
+    "grappling": 90,
+    "popularity": 80
+  },
+  "Geoff Neal": {
+    "name": "Geoff Neal",
+    "division": "Welterweight",
+    "power": 83,
+    "speed": 80,
+    "grappling": 72,
+    "popularity": 58
+  },
+  "Stephen Thompson": {
+    "name": "Stephen Thompson",
+    "division": "Welterweight",
+    "power": 85,
+    "speed": 90,
+    "grappling": 70,
+    "popularity": 75
+  },
+  "Carlos Prates": {
+    "name": "Carlos Prates",
+    "division": "Welterweight",
+    "power": 85,
+    "speed": 82,
+    "grappling": 65,
+    "popularity": 45
+  },
+  "Kevin Holland": {
+    "name": "Kevin Holland",
+    "division": "Welterweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 75
+  },
+  "Gabriel Bonfim": {
+    "name": "Gabriel Bonfim",
+    "division": "Welterweight",
+    "power": 82,
+    "speed": 78,
+    "grappling": 80,
+    "popularity": 40
+  },
+  "Randy Brown": {
+    "name": "Randy Brown",
+    "division": "Welterweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 72,
+    "popularity": 42
+  },
+  "Rinat Fakhretdinov": {
+    "name": "Rinat Fakhretdinov",
+    "division": "Welterweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 85,
+    "popularity": 35
+  },
+  "Bryan Battle": {
+    "name": "Bryan Battle",
+    "division": "Welterweight",
+    "power": 80,
+    "speed": 72,
+    "grappling": 78,
+    "popularity": 30
+  },
+  "Neil Magny": {
+    "name": "Neil Magny",
+    "division": "Welterweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 75,
+    "popularity": 55
+  },
+  "Andreas Gustafsson": {
+    "name": "Andreas Gustafsson",
+    "division": "Welterweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 75,
+    "popularity": 25
+  },
+  "Vicente Luque": {
+    "name": "Vicente Luque",
+    "division": "Welterweight",
+    "power": 85,
+    "speed": 78,
+    "grappling": 80,
+    "popularity": 68
+  },
+  "Mike Malott": {
+    "name": "Mike Malott",
+    "division": "Welterweight",
+    "power": 84,
+    "speed": 78,
+    "grappling": 75,
+    "popularity": 52
+  },
+  "Michael Chiesa": {
+    "name": "Michael Chiesa",
+    "division": "Welterweight",
+    "power": 82,
+    "speed": 75,
+    "grappling": 85,
+    "popularity": 50
+  },
+  "Khaos Williams": {
+    "name": "Khaos Williams",
+    "division": "Welterweight",
+    "power": 88,
+    "speed": 75,
+    "grappling": 65,
+    "popularity": 55
+  },
+  "Sam Patterson": {
+    "name": "Sam Patterson",
+    "division": "Welterweight",
+    "power": 79,
+    "speed": 72,
+    "grappling": 68,
+    "popularity": 28
+  },
+  "Chidi Njokuani": {
+    "name": "Chidi Njokuani",
+    "division": "Welterweight",
+    "power": 85,
+    "speed": 75,
+    "grappling": 60,
+    "popularity": 35
+  },
+  "Trey Waters": {
+    "name": "Trey Waters",
+    "division": "Welterweight",
+    "power": 82,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 30
+  },
+  "Oban Elliott": {
+    "name": "Oban Elliott",
+    "division": "Welterweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 72,
+    "popularity": 32
+  },
+  "Daniel Rodriguez": {
+    "name": "Daniel Rodriguez",
+    "division": "Welterweight",
+    "power": 83,
+    "speed": 75,
+    "grappling": 68,
+    "popularity": 48
+  },
+  "Jake Matthews": {
+    "name": "Jake Matthews",
+    "division": "Welterweight",
+    "power": 80,
+    "speed": 72,
+    "grappling": 75,
+    "popularity": 38
+  },
+  "Punahele Soriano": {
+    "name": "Punahele Soriano",
+    "division": "Welterweight",
+    "power": 87,
+    "speed": 70,
+    "grappling": 70,
+    "popularity": 40
+  },
+  "Jonny Parsons": {
+    "name": "Jonny Parsons",
+    "division": "Welterweight",
+    "power": 82,
+    "speed": 75,
+    "grappling": 65,
+    "popularity": 28
+  },
+  "Nicolas Dalby": {
+    "name": "Nicolas Dalby",
+    "division": "Welterweight",
+    "power": 80,
+    "speed": 70,
+    "grappling": 75,
+    "popularity": 35
+  },
+  "Jacobe Smith": {
+    "name": "Jacobe Smith",
+    "division": "Welterweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 85,
+    "popularity": 25
+  },
+  "Jonathan Micallef": {
+    "name": "Jonathan Micallef",
+    "division": "Welterweight",
+    "power": 76,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "Max Griffin": {
+    "name": "Max Griffin",
+    "division": "Welterweight",
+    "power": 81,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 32
+  },
+  "Gunnar Nelson": {
+    "name": "Gunnar Nelson",
+    "division": "Welterweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 88,
+    "popularity": 50
+  },
+  "Muslim Salikhov": {
+    "name": "Muslim Salikhov",
+    "division": "Welterweight",
+    "power": 86,
+    "speed": 75,
+    "grappling": 68,
+    "popularity": 38
+  },
+  "Li Jingliang": {
+    "name": "Li Jingliang",
+    "division": "Welterweight",
+    "power": 83,
+    "speed": 72,
+    "grappling": 75,
+    "popularity": 48
+  },
+  "Ramiz Brahimaj": {
+    "name": "Ramiz Brahimaj",
+    "division": "Welterweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 85,
+    "popularity": 28
+  },
+  "Adam Fugitt": {
+    "name": "Adam Fugitt",
+    "division": "Welterweight",
+    "power": 79,
+    "speed": 70,
+    "grappling": 72,
+    "popularity": 26
+  },
+  "Carlos Leal": {
+    "name": "Carlos Leal",
+    "division": "Welterweight",
+    "power": 84,
+    "speed": 75,
+    "grappling": 68,
+    "popularity": 30
+  },
+  "Gilbert Urbina": {
+    "name": "Gilbert Urbina",
+    "division": "Welterweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 80,
+    "popularity": 25
+  },
+  "Themba Gorimbo": {
+    "name": "Themba Gorimbo",
+    "division": "Welterweight",
+    "power": 76,
+    "speed": 68,
+    "grappling": 75,
+    "popularity": 30
+  },
+  "Charles Radtke": {
+    "name": "Charles Radtke",
+    "division": "Welterweight",
+    "power": 80,
+    "speed": 72,
+    "grappling": 65,
+    "popularity": 28
+  },
+  "Carlston Harris": {
+    "name": "Carlston Harris",
+    "division": "Welterweight",
+    "power": 82,
+    "speed": 70,
+    "grappling": 80,
+    "popularity": 32
+  },
+  "Uros Medic": {
+    "name": "Uros Medic",
+    "division": "Welterweight",
+    "power": 84,
+    "speed": 75,
+    "grappling": 60,
+    "popularity": 30
+  },
+  "Bassil Hafez": {
+    "name": "Bassil Hafez",
+    "division": "Welterweight",
+    "power": 80,
+    "speed": 70,
+    "grappling": 75,
+    "popularity": 28
+  },
+  "Elizeu Zaleski dos Santos": {
+    "name": "Elizeu Zaleski dos Santos",
+    "division": "Welterweight",
+    "power": 83,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 45
+  },
+  "Lyman Good": {
+    "name": "Lyman Good",
+    "division": "Welterweight",
+    "power": 80,
+    "speed": 70,
+    "grappling": 70,
+    "popularity": 30
+  },
+  "Danny Barlow": {
+    "name": "Danny Barlow",
+    "division": "Welterweight",
+    "power": 83,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 30
+  },
+  "Evan Elder": {
+    "name": "Evan Elder",
+    "division": "Lightweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 72,
+    "popularity": 25
+  },
+  "Phil Rowe": {
+    "name": "Phil Rowe",
+    "division": "Welterweight",
+    "power": 82,
+    "speed": 75,
+    "grappling": 68,
+    "popularity": 32
+  },
+  "Santiago Ponzinibbio": {
+    "name": "Santiago Ponzinibbio",
+    "division": "Welterweight",
+    "power": 84,
+    "speed": 77,
+    "grappling": 70,
+    "popularity": 50
+  },
+  "Sheldon Westcott": {
+    "name": "Sheldon Westcott",
+    "division": "Welterweight",
+    "power": 75,
+    "speed": 65,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "Jeremiah Wells": {
+    "name": "Jeremiah Wells",
+    "division": "Welterweight",
+    "power": 82,
+    "speed": 75,
+    "grappling": 78,
+    "popularity": 45
+  },
+  "Rhys McKee": {
+    "name": "Rhys McKee",
+    "division": "Welterweight",
+    "power": 79,
+    "speed": 72,
+    "grappling": 60,
+    "popularity": 25
+  },
+  "Daniel Frunza": {
+    "name": "Daniel Frunza",
+    "division": "Welterweight",
+    "power": 76,
+    "speed": 67,
+    "grappling": 69,
+    "popularity": 18
+  },
+  "Matt Brown": {
+    "name": "Matt Brown",
+    "division": "Welterweight",
+    "power": 82,
+    "speed": 70,
+    "grappling": 70,
+    "popularity": 50
+  },
+  "Gabe Green": {
+    "name": "Gabe Green",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 68,
+    "popularity": 30
+  },
+  "Pete Rodriguez": {
+    "name": "Pete Rodriguez",
+    "division": "Welterweight",
+    "power": 85,
+    "speed": 78,
+    "grappling": 60,
+    "popularity": 30
+  },
+  "Francisco Prado": {
+    "name": "Francisco Prado",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 28
+  },
+  "Billy Ray Goff": {
+    "name": "Billy Ray Goff",
+    "division": "Welterweight",
+    "power": 82,
+    "speed": 75,
+    "grappling": 68,
+    "popularity": 28
+  },
+  "Rafael Dos Anjos": {
+    "name": "Rafael dos Anjos",
+    "division": "Lightweight",
+    "power": 86,
+    "speed": 80,
+    "grappling": 85,
+    "popularity": 70
+  },
+  "Niko Price": {
+    "name": "Niko Price",
+    "division": "Welterweight",
+    "power": 85,
+    "speed": 80,
+    "grappling": 70,
+    "popularity": 45
+  },
+  "Preston Parsons": {
+    "name": "Preston Parsons",
+    "division": "Welterweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 75,
+    "popularity": 28
+  },
+  "Rolando Bedoya": {
+    "name": "Rolando Bedoya",
+    "division": "Lightweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 75,
+    "popularity": 25
+  },
+  "Song Kenan": {
+    "name": "Song Kenan",
+    "division": "Welterweight",
+    "power": 80,
+    "speed": 72,
+    "grappling": 65,
+    "popularity": 30
+  },
+  "Kiefer Crosbie": {
+    "name": "Kiefer Crosbie",
+    "division": "Welterweight",
+    "power": 79,
+    "speed": 70,
+    "grappling": 60,
+    "popularity": 28
+  },
+  "Trevin Giles": {
+    "name": "Trevin Giles",
+    "division": "Welterweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 35
+  },
+  "Ange Loosa": {
+    "name": "Ange Loosa",
+    "division": "Welterweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 72,
+    "popularity": 28
+  },
+  "Yusaku Kinoshita": {
+    "name": "Yusaku Kinoshita",
+    "division": "Welterweight",
+    "power": 81,
+    "speed": 75,
+    "grappling": 65,
+    "popularity": 25
+  },
+  "Wellington Turman": {
+    "name": "Wellington Turman",
+    "division": "Welterweight",
+    "power": 77,
+    "speed": 68,
+    "grappling": 80,
+    "popularity": 30
+  },
+  "Darrius Flowers": {
+    "name": "Darrius Flowers",
+    "division": "Lightweight",
+    "power": 83,
+    "speed": 70,
+    "grappling": 65,
+    "popularity": 28
+  },
+  "Tim Means": {
+    "name": "Tim Means",
+    "division": "Welterweight",
+    "power": 80,
+    "speed": 70,
+    "grappling": 70,
+    "popularity": 38
+  },
+  "Court McGee": {
+    "name": "Court McGee",
+    "division": "Welterweight",
+    "power": 75,
+    "speed": 65,
+    "grappling": 75,
+    "popularity": 30
+  },
+  "Mickey Gall": {
+    "name": "Mickey Gall",
+    "division": "Welterweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 80,
+    "popularity": 32
+  },
+  "Alex Morono": {
+    "name": "Alex Morono",
+    "division": "Welterweight",
+    "power": 82,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 40
+  },
+  "Ilia Topuria": {
+    "name": "Ilia Topuria",
+    "division": "Lightweight",
+    "power": 90,
+    "speed": 88,
+    "grappling": 85,
+    "popularity": 95
+  },
+  "Arman Tsarukyan": {
+    "name": "Arman Tsarukyan",
+    "division": "Lightweight",
+    "power": 85,
+    "speed": 82,
+    "grappling": 88,
+    "popularity": 88
+  },
+  "Charles Oliveira": {
+    "name": "Charles Oliveira",
+    "division": "Lightweight",
+    "power": 88,
+    "speed": 85,
+    "grappling": 92,
+    "popularity": 90
+  },
+  "Justin Gaethje": {
+    "name": "Justin Gaethje",
+    "division": "Lightweight",
+    "power": 90,
+    "speed": 85,
+    "grappling": 70,
+    "popularity": 92
+  },
+  "Max Holloway": {
+    "name": "Max Holloway",
+    "division": "Featherweight",
+    "power": 85,
+    "speed": 88,
+    "grappling": 78,
+    "popularity": 90
+  },
+  "Dustin Poirier": {
+    "name": "Dustin Poirier",
+    "division": "Lightweight",
+    "power": 87,
+    "speed": 83,
+    "grappling": 75,
+    "popularity": 89
+  },
+  "Dan Hooker": {
+    "name": "Dan Hooker",
+    "division": "Lightweight",
+    "power": 83,
+    "speed": 80,
+    "grappling": 75,
+    "popularity": 70
+  },
+  "Mateusz Gamrot": {
+    "name": "Mateusz Gamrot",
+    "division": "Lightweight",
+    "power": 82,
+    "speed": 78,
+    "grappling": 85,
+    "popularity": 70
+  },
+  "Paddy Pimblett": {
+    "name": "Paddy Pimblett",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 80,
+    "popularity": 90
+  },
+  "Beneil Dariush": {
+    "name": "Beneil Dariush",
+    "division": "Lightweight",
+    "power": 83,
+    "speed": 80,
+    "grappling": 87,
+    "popularity": 75
+  },
+  "Renato Moicano": {
+    "name": "Renato Moicano",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 88,
+    "popularity": 65
+  },
+  "Rafael Fiziev": {
+    "name": "Rafael Fiziev",
+    "division": "Lightweight",
+    "power": 87,
+    "speed": 88,
+    "grappling": 70,
+    "popularity": 78
+  },
+  "Michael Chandler": {
+    "name": "Michael Chandler",
+    "division": "Lightweight",
+    "power": 88,
+    "speed": 82,
+    "grappling": 72,
+    "popularity": 85
+  },
+  "Benoit Saint Denis": {
+    "name": "Benoit Saint-Denis",
+    "division": "Lightweight",
+    "power": 87,
+    "speed": 80,
+    "grappling": 85,
+    "popularity": 80
+  },
+  "Grant Dawson": {
+    "name": "Grant Dawson",
+    "division": "Lightweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 90,
+    "popularity": 60
+  },
+  "Joel Alvarez": {
+    "name": "Joel Alvarez",
+    "division": "Lightweight",
+    "power": 83,
+    "speed": 78,
+    "grappling": 80,
+    "popularity": 42
+  },
+  "Ignacio Bahamondes": {
+    "name": "Ignacio Bahamondes",
+    "division": "Lightweight",
+    "power": 85,
+    "speed": 80,
+    "grappling": 68,
+    "popularity": 50
+  },
+  "Mauricio Ruffy": {
+    "name": "Mauricio Ruffy",
+    "division": "Lightweight",
+    "power": 83,
+    "speed": 78,
+    "grappling": 68,
+    "popularity": 30
+  },
+  "Fares Ziam": {
+    "name": "Fares Ziam",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 32
+  },
+  "Nasrat Haqparast": {
+    "name": "Nasrat Haqparast",
+    "division": "Lightweight",
+    "power": 82,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 38
+  },
+  "Chase Hooper": {
+    "name": "Chase Hooper",
+    "division": "Lightweight",
+    "power": 75,
+    "speed": 70,
+    "grappling": 88,
+    "popularity": 40
+  },
+  "King Green": {
+    "name": "Bobby Green",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 85,
+    "grappling": 70,
+    "popularity": 72
+  },
+  "Ludovit Klein": {
+    "name": "Ludovit Klein",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 72,
+    "popularity": 35
+  },
+  "Mateusz Rebecki": {
+    "name": "Mateusz Rebecki",
+    "division": "Lightweight",
+    "power": 85,
+    "speed": 78,
+    "grappling": 75,
+    "popularity": 38
+  },
+  "Nazim Sadykhov": {
+    "name": "Nazim Sadykhov",
+    "division": "Lightweight",
+    "power": 82,
+    "speed": 78,
+    "grappling": 68,
+    "popularity": 35
+  },
+  "Manuel Torres": {
+    "name": "Manuel Torres",
+    "division": "Lightweight",
+    "power": 84,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 35
+  },
+  "Jared Gordon": {
+    "name": "Jared Gordon",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 72,
+    "grappling": 75,
+    "popularity": 40
+  },
+  "Chris Duncan": {
+    "name": "Chris Duncan",
+    "division": "Lightweight",
+    "power": 83,
+    "speed": 75,
+    "grappling": 68,
+    "popularity": 30
+  },
+  "Chris Padilla": {
+    "name": "Chris Padilla",
+    "division": "Lightweight",
+    "power": 76,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "MarQuel Mederos": {
+    "name": "MarQuel Mederos",
+    "division": "Lightweight",
+    "power": 75,
+    "speed": 67,
+    "grappling": 69,
+    "popularity": 18
+  },
+  "Drakkar Klose": {
+    "name": "Drakkar Klose",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 78,
+    "popularity": 42
+  },
+  "Jim Miller": {
+    "name": "Jim Miller",
+    "division": "Lightweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 85,
+    "popularity": 60
+  },
+  "Esteban Ribovics": {
+    "name": "Esteban Ribovics",
+    "division": "Lightweight",
+    "power": 82,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 30
+  },
+  "Charlie Campbell": {
+    "name": "Charlie Campbell",
+    "division": "Lightweight",
+    "power": 83,
+    "speed": 75,
+    "grappling": 60,
+    "popularity": 28
+  },
+  "Myktybek Orolbai": {
+    "name": "Myktybek Orolbai",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 72,
+    "grappling": 85,
+    "popularity": 35
+  },
+  "Mike Davis": {
+    "name": "Mike Davis",
+    "division": "Lightweight",
+    "power": 82,
+    "speed": 78,
+    "grappling": 68,
+    "popularity": 38
+  },
+  "Quillan Salkilld": {
+    "name": "Quillan Salkilld",
+    "division": "Lightweight",
+    "power": 75,
+    "speed": 66,
+    "grappling": 68,
+    "popularity": 18
+  },
+  "Nurullo Aliev": {
+    "name": "Nurullo Aliev",
+    "division": "Lightweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 85,
+    "popularity": 30
+  },
+  "Ismael Bonfim": {
+    "name": "Ismael Bonfim",
+    "division": "Lightweight",
+    "power": 85,
+    "speed": 80,
+    "grappling": 70,
+    "popularity": 35
+  },
+  "Nikolas Motta": {
+    "name": "Nikolas Motta",
+    "division": "Lightweight",
+    "power": 84,
+    "speed": 75,
+    "grappling": 65,
+    "popularity": 32
+  },
+  "Matt Frevola": {
+    "name": "Matt Frevola",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 72,
+    "grappling": 75,
+    "popularity": 40
+  },
+  "Daniel Zellhuber": {
+    "name": "Daniel Zellhuber",
+    "division": "Lightweight",
+    "power": 82,
+    "speed": 78,
+    "grappling": 68,
+    "popularity": 35
+  },
+  "Francis Marshall": {
+    "name": "Francis Marshall",
+    "division": "Featherweight",
+    "power": 79,
+    "speed": 72,
+    "grappling": 75,
+    "popularity": 28
+  },
+  "Alexander Hernandez": {
+    "name": "Alexander Hernandez",
+    "division": "Lightweight",
+    "power": 82,
+    "speed": 80,
+    "grappling": 75,
+    "popularity": 48
+  },
+  "Thiago Moises": {
+    "name": "Thiago Moises",
+    "division": "Lightweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 85,
+    "popularity": 45
+  },
+  "Diego Ferreira": {
+    "name": "Carlos Diego Ferreira",
+    "division": "Lightweight",
+    "power": 79,
+    "speed": 75,
+    "grappling": 82,
+    "popularity": 45
+  },
+  "Rafa Garcia": {
+    "name": "Rafa Garcia",
+    "division": "Lightweight",
+    "power": 78,
+    "speed": 72,
+    "grappling": 80,
+    "popularity": 30
+  },
+  "David Teymur": {
+    "name": "David Teymur",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 30
+  },
+  "Tom Nolan": {
+    "name": "Tom Nolan",
+    "division": "Lightweight",
+    "power": 83,
+    "speed": 75,
+    "grappling": 60,
+    "popularity": 28
+  },
+  "Kaue Fernandes": {
+    "name": "Kaue Fernandes",
+    "division": "Lightweight",
+    "power": 77,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "Jordan Leavitt": {
+    "name": "Jordan Leavitt",
+    "division": "Lightweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 85,
+    "popularity": 30
+  },
+  "Mason Jones": {
+    "name": "Mason Jones",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 72,
+    "grappling": 75,
+    "popularity": 32
+  },
+  "Bolaji Oki": {
+    "name": "Bolaji Oki",
+    "division": "Lightweight",
+    "power": 84,
+    "speed": 75,
+    "grappling": 65,
+    "popularity": 30
+  },
+  "Mark Choinski": {
+    "name": "Mark Choinski",
+    "division": "Lightweight",
+    "power": 76,
+    "speed": 67,
+    "grappling": 69,
+    "popularity": 18
+  },
+  "AJ Cunningham": {
+    "name": "AJ Cunningham",
+    "division": "Bantamweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 18
+  },
+  "Mitch Ramirez": {
+    "name": "Mitch Ramirez",
+    "division": "Lightweight",
+    "power": 77,
+    "speed": 69,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "Trey Ogden": {
+    "name": "Trey Ogden",
+    "division": "Lightweight",
+    "power": 76,
+    "speed": 68,
+    "grappling": 80,
+    "popularity": 25
+  },
+  "David Onama": {
+    "name": "David Onama",
+    "division": "Featherweight",
+    "power": 85,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 40
+  },
+  "Yanal Ashmouz": {
+    "name": "Yanal Ashmouz",
+    "division": "Lightweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 82,
+    "popularity": 28
+  },
+  "Dennis Buzukja": {
+    "name": "Dennis Buzukja",
+    "division": "Featherweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 65,
+    "popularity": 30
+  },
+  "Michael Johnson": {
+    "name": "Michael Johnson",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 82,
+    "grappling": 65,
+    "popularity": 45
+  },
+  "Joe Lauzon": {
+    "name": "Joe Lauzon",
+    "division": "Lightweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 80,
+    "popularity": 35
+  },
+  "Matheus Camilo": {
+    "name": "Matheus Camilo",
+    "division": "Lightweight",
+    "power": 76,
+    "speed": 67,
+    "grappling": 69,
+    "popularity": 18
+  },
+  "Elves Brener": {
+    "name": "Elves Brener",
+    "division": "Lightweight",
+    "power": 79,
+    "speed": 75,
+    "grappling": 78,
+    "popularity": 30
+  },
+  "Rongzhu": {
+    "name": "Rongzhu",
+    "division": "Lightweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 65,
+    "popularity": 25
+  },
+  "Terrance McKinney": {
+    "name": "Terrance McKinney",
+    "division": "Lightweight",
+    "power": 85,
+    "speed": 88,
+    "grappling": 70,
+    "popularity": 38
+  },
+  "Vagner Rocha": {
+    "name": "Vagner Rocha",
+    "division": "Featherweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 85,
+    "popularity": 28
+  },
+  "Kody Steele": {
+    "name": "Kody Steele",
+    "division": "Lightweight",
+    "power": 76,
+    "speed": 67,
+    "grappling": 69,
+    "popularity": 18
+  },
+  "Gauge Young": {
+    "name": "Gauge Young",
+    "division": "Lightweight",
+    "power": 75,
+    "speed": 66,
+    "grappling": 68,
+    "popularity": 18
+  },
+  "Roberto Romero": {
+    "name": "Roberto Romero",
+    "division": "Featherweight",
+    "power": 77,
+    "speed": 69,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "Abdul-Kareem Al-Selwady": {
+    "name": "Abdul-Kareem Al-Selwady",
+    "division": "Lightweight",
+    "power": 79,
+    "speed": 70,
+    "grappling": 75,
+    "popularity": 25
+  },
+  "Jai Herbert": {
+    "name": "Jai Herbert",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 65,
+    "popularity": 30
+  },
+  "Loik Radzhabov": {
+    "name": "Loik Radzhabov",
+    "division": "Lightweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 82,
+    "popularity": 32
+  },
+  "Claudio Puelles": {
+    "name": "Claudio Puelles",
+    "division": "Lightweight",
+    "power": 75,
+    "speed": 65,
+    "grappling": 90,
+    "popularity": 30
+  },
+  "Anshul Jubli": {
+    "name": "Anshul Jubli",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 68,
+    "popularity": 30
+  },
+  "Viacheslav Borshchev": {
+    "name": "Viacheslav Borshchev",
+    "division": "Lightweight",
+    "power": 84,
+    "speed": 78,
+    "grappling": 60,
+    "popularity": 32
+  },
+  "Trevor Peek": {
+    "name": "Trevor Peek",
+    "division": "Lightweight",
+    "power": 86,
+    "speed": 75,
+    "grappling": 65,
+    "popularity": 35
+  },
+  "Joaquim Silva": {
+    "name": "Joaquim Silva",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 68,
+    "popularity": 30
+  },
+  "Damir Hadzovic": {
+    "name": "Damir Hadzovic",
+    "division": "Lightweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 65,
+    "popularity": 28
+  },
+  "Austin Hubbard": {
+    "name": "Austin Hubbard",
+    "division": "Lightweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 75,
+    "popularity": 30
+  },
+  "Al Iaquinta": {
+    "name": "Al Iaquinta",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 72,
+    "grappling": 70,
+    "popularity": 45
+  },
+  "Brad Riddell": {
+    "name": "Brad Riddell",
+    "division": "Lightweight",
+    "power": 82,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 38
+  },
+  "Kurt Holobaugh": {
+    "name": "Kurt Holobaugh",
+    "division": "Lightweight",
+    "power": 77,
+    "speed": 70,
+    "grappling": 72,
+    "popularity": 28
+  },
+  "Alex Reyes": {
+    "name": "Alex Reyes",
+    "division": "Lightweight",
+    "power": 76,
+    "speed": 67,
+    "grappling": 69,
+    "popularity": 20
+  },
+  "Mohammad Yahya": {
+    "name": "Mohammad Yahya",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 60,
+    "popularity": 25
+  },
+  "Jordan Vucenic": {
+    "name": "Jordan Vucenic",
+    "division": "Lightweight",
+    "power": 77,
+    "speed": 70,
+    "grappling": 80,
+    "popularity": 28
+  },
+  "Jamie Mullarkey": {
+    "name": "Jamie Mullarkey",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 72,
+    "grappling": 70,
+    "popularity": 32
+  },
+  "Lando Vannata": {
+    "name": "Lando Vannata",
+    "division": "Featherweight",
+    "power": 80,
+    "speed": 80,
+    "grappling": 68,
+    "popularity": 40
+  },
+  "Maheshate": {
+    "name": "Maheshate",
+    "division": "Lightweight",
+    "power": 82,
+    "speed": 75,
+    "grappling": 60,
+    "popularity": 28
+  },
+  "Victor Martinez": {
+    "name": "Victor Martinez",
+    "division": "Lightweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 65,
+    "popularity": 25
+  },
+  "Drew Dober": {
+    "name": "Drew Dober",
+    "division": "Lightweight",
+    "power": 88,
+    "speed": 78,
+    "grappling": 68,
+    "popularity": 65
+  },
+  "Ottman Azaitar": {
+    "name": "Ottman Azaitar",
+    "division": "Lightweight",
+    "power": 86,
+    "speed": 78,
+    "grappling": 60,
+    "popularity": 35
+  },
+  "Kyle Prepolec": {
+    "name": "Kyle Prepolec",
+    "division": "Lightweight",
+    "power": 75,
+    "speed": 66,
+    "grappling": 68,
+    "popularity": 18
+  },
+  "Jeremy Stephens": {
+    "name": "Jeremy Stephens",
+    "division": "Lightweight",
+    "power": 80,
+    "speed": 70,
+    "grappling": 65,
+    "popularity": 45
+  },
+  "Alexander Volkanovski": {
+    "name": "Alexander Volkanovski",
+    "division": "Featherweight",
+    "power": 90,
+    "speed": 90,
+    "grappling": 80,
+    "popularity": 92
+  },
+  "Diego Lopes": {
+    "name": "Diego Lopes",
+    "division": "Featherweight",
+    "power": 85,
+    "speed": 80,
+    "grappling": 87,
+    "popularity": 80
+  },
+  "Movsar Evloev": {
+    "name": "Movsar Evloev",
+    "division": "Featherweight",
+    "power": 83,
+    "speed": 82,
+    "grappling": 88,
+    "popularity": 70
+  },
+  "Aaron Pico": {
+    "name": "Aaron Pico",
+    "division": "Featherweight",
+    "power": 83,
+    "speed": 75,
+    "grappling": 75,
+    "popularity": 61
+  },
+  "Yair Rodriguez": {
+    "name": "Yair Rodr\u00edguez",
+    "division": "Featherweight",
+    "power": 83,
+    "speed": 90,
+    "grappling": 71,
+    "popularity": 78
+  },
+  "Arnold Allen": {
+    "name": "Arnold Allen",
+    "division": "Featherweight",
+    "power": 80,
+    "speed": 85,
+    "grappling": 80,
+    "popularity": 75
+  },
+  "Brian Ortega": {
+    "name": "Brian Ortega",
+    "division": "Featherweight",
+    "power": 80,
+    "speed": 80,
+    "grappling": 92,
+    "popularity": 80
+  },
+  "Lerone Murphy": {
+    "name": "Lerone Murphy",
+    "division": "Featherweight",
+    "power": 82,
+    "speed": 85,
+    "grappling": 75,
+    "popularity": 55
+  },
+  "Aljamain Sterling": {
+    "name": "Aljamain Sterling",
+    "division": "Featherweight",
+    "power": 85,
+    "speed": 82,
+    "grappling": 90,
+    "popularity": 85
+  },
+  "Josh Emmett": {
+    "name": "Josh Emmett",
+    "division": "Featherweight",
+    "power": 87,
+    "speed": 80,
+    "grappling": 78,
+    "popularity": 65
+  },
+  "Jean Silva": {
+    "name": "Jean Silva",
+    "division": "Featherweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 30
+  },
+  "Youssef Zalal": {
+    "name": "Youssef Zalal",
+    "division": "Featherweight",
+    "power": 78,
+    "speed": 80,
+    "grappling": 68,
+    "popularity": 28
+  },
+  "Dan Ige": {
+    "name": "Dan Ige",
+    "division": "Featherweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 78,
+    "popularity": 50
+  },
+  "Calvin Kattar": {
+    "name": "Calvin Kattar",
+    "division": "Featherweight",
+    "power": 82,
+    "speed": 80,
+    "grappling": 70,
+    "popularity": 68
+  },
+  "Hyder Amil": {
+    "name": "Hyder Amil",
+    "division": "Featherweight",
+    "power": 76,
+    "speed": 70,
+    "grappling": 68,
+    "popularity": 22
+  },
+  "William Gomis": {
+    "name": "William Gomis",
+    "division": "Featherweight",
+    "power": 80,
+    "speed": 82,
+    "grappling": 65,
+    "popularity": 30
+  },
+  "Bryce Mitchell": {
+    "name": "Bryce Mitchell",
+    "division": "Featherweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 90,
+    "popularity": 55
+  },
+  "Patricio Pitbull": {
+    "name": "Patricio Pitbull",
+    "division": "Featherweight",
+    "power": 76,
+    "speed": 83,
+    "grappling": 61,
+    "popularity": 65
+  },
+  "Chepe Mariscal": {
+    "name": "Chepe Mariscal",
+    "division": "Featherweight",
+    "power": 79,
+    "speed": 72,
+    "grappling": 75,
+    "popularity": 28
+  },
+  "Steve Garcia": {
+    "name": "Steve Garcia",
+    "division": "Featherweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 68,
+    "popularity": 30
+  },
+  "Pat Sabatini": {
+    "name": "Pat Sabatini",
+    "division": "Featherweight",
+    "power": 78,
+    "speed": 72,
+    "grappling": 85,
+    "popularity": 28
+  },
+  "Edson Barboza": {
+    "name": "Edson Barboza",
+    "division": "Featherweight",
+    "power": 88,
+    "speed": 90,
+    "grappling": 65,
+    "popularity": 72
+  },
+  "Felipe Lima": {
+    "name": "Felipe Lima",
+    "division": "Featherweight",
+    "power": 82,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 25
+  },
+  "Melquizael Costa": {
+    "name": "Melquizael Costa",
+    "division": "Featherweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 75,
+    "popularity": 28
+  },
+  "Giga Chikadze": {
+    "name": "Giga Chikadze",
+    "division": "Featherweight",
+    "power": 86,
+    "speed": 88,
+    "grappling": 70,
+    "popularity": 70
+  },
+  "Mairon Santos": {
+    "name": "Mairon Santos",
+    "division": "Featherweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "Nathaniel Wood": {
+    "name": "Nathaniel Wood",
+    "division": "Featherweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 72,
+    "popularity": 40
+  },
+  "Danny Silva": {
+    "name": "Danny Silva",
+    "division": "Featherweight",
+    "power": 76,
+    "speed": 69,
+    "grappling": 70,
+    "popularity": 22
+  },
+  "Sean Woodson": {
+    "name": "Sean Woodson",
+    "division": "Featherweight",
+    "power": 83,
+    "speed": 80,
+    "grappling": 65,
+    "popularity": 35
+  },
+  "Dooho Choi": {
+    "name": "Dooho Choi",
+    "division": "Featherweight",
+    "power": 85,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 40
+  },
+  "Ryan Hall": {
+    "name": "Ryan Hall",
+    "division": "Featherweight",
+    "power": 70,
+    "speed": 65,
+    "grappling": 95,
+    "popularity": 35
+  },
+  "Bogdan Grad": {
+    "name": "Bogdan Grad",
+    "division": "Featherweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "Nathan Fletcher": {
+    "name": "Nathan Fletcher",
+    "division": "Bantamweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 80,
+    "popularity": 25
+  },
+  "Nate Landwehr": {
+    "name": "Nate Landwehr",
+    "division": "Featherweight",
+    "power": 82,
+    "speed": 70,
+    "grappling": 75,
+    "popularity": 42
+  },
+  "Joanderson Brito": {
+    "name": "Joanderson Brito",
+    "division": "Featherweight",
+    "power": 83,
+    "speed": 80,
+    "grappling": 78,
+    "popularity": 35
+  },
+  "Daniel Santos": {
+    "name": "Daniel Santos",
+    "division": "Bantamweight",
+    "power": 79,
+    "speed": 75,
+    "grappling": 68,
+    "popularity": 30
+  },
+  "JooSang Yoo": {
+    "name": "JooSang Yoo",
+    "division": "Featherweight",
+    "power": 76,
+    "speed": 69,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "Jose Delgado": {
+    "name": "Jose Delgado",
+    "division": "Featherweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 69,
+    "popularity": 18
+  },
+  "Kevin Vallejos": {
+    "name": "Kevin Vallejos",
+    "division": "Featherweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 69,
+    "popularity": 18
+  },
+  "Kyle Nelson": {
+    "name": "Kyle Nelson",
+    "division": "Featherweight",
+    "power": 77,
+    "speed": 70,
+    "grappling": 70,
+    "popularity": 25
+  },
+  "Cub Swanson": {
+    "name": "Cub Swanson",
+    "division": "Featherweight",
+    "power": 82,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 50
+  },
+  "Morgan Charriere": {
+    "name": "Morgan Charriere",
+    "division": "Featherweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 68,
+    "popularity": 30
+  },
+  "Jamall Emmers": {
+    "name": "Jamall Emmers",
+    "division": "Featherweight",
+    "power": 80,
+    "speed": 80,
+    "grappling": 75,
+    "popularity": 35
+  },
+  "Isaac Dulgarian": {
+    "name": "Isaac Dulgarian",
+    "division": "Featherweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 85,
+    "popularity": 28
+  },
+  "Gabriel Santos": {
+    "name": "Gabriel Santos",
+    "division": "Featherweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 80,
+    "popularity": 32
+  },
+  "Melsik Baghdasaryan": {
+    "name": "Melsik Baghdasaryan",
+    "division": "Featherweight",
+    "power": 83,
+    "speed": 78,
+    "grappling": 60,
+    "popularity": 35
+  },
+  "Miles Johns": {
+    "name": "Miles Johns",
+    "division": "Bantamweight",
+    "power": 77,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 30
+  },
+  "Patricio Freire": {
+    "name": "Patricio Freire",
+    "division": "Featherweight",
+    "power": 88,
+    "speed": 85,
+    "grappling": 80,
+    "popularity": 90
+  },
+  "Andre Fili": {
+    "name": "Andre Fili",
+    "division": "Featherweight",
+    "power": 79,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 40
+  },
+  "Julian Erosa": {
+    "name": "Julian Erosa",
+    "division": "Featherweight",
+    "power": 79,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 38
+  },
+  "Westin Wilson": {
+    "name": "Westin Wilson",
+    "division": "Featherweight",
+    "power": 77,
+    "speed": 70,
+    "grappling": 72,
+    "popularity": 25
+  },
+  "Fernando Padilla": {
+    "name": "Fernando Padilla",
+    "division": "Featherweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 68,
+    "popularity": 30
+  },
+  "Christian Rodriguez": {
+    "name": "Christian Rodriguez",
+    "division": "Featherweight",
+    "power": 79,
+    "speed": 75,
+    "grappling": 72,
+    "popularity": 35
+  },
+  "Manolo Zecchini": {
+    "name": "Manolo Zecchini",
+    "division": "Featherweight",
+    "power": 75,
+    "speed": 66,
+    "grappling": 68,
+    "popularity": 18
+  },
+  "Steven Nguyen": {
+    "name": "Steven Nguyen",
+    "division": "Featherweight",
+    "power": 82,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 30
+  },
+  "Jack Jenkins": {
+    "name": "Jack Jenkins",
+    "division": "Featherweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 80,
+    "popularity": 32
+  },
+  "Alex Caceres": {
+    "name": "Alex Caceres",
+    "division": "Featherweight",
+    "power": 78,
+    "speed": 82,
+    "grappling": 72,
+    "popularity": 45
+  },
+  "Darren Elkins": {
+    "name": "Darren Elkins",
+    "division": "Featherweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 78,
+    "popularity": 40
+  },
+  "Lucas Almeida": {
+    "name": "Lucas Almeida",
+    "division": "Featherweight",
+    "power": 82,
+    "speed": 75,
+    "grappling": 68,
+    "popularity": 32
+  },
+  "Timmy Cuamba": {
+    "name": "Timmy Cuamba",
+    "division": "Featherweight",
+    "power": 79,
+    "speed": 75,
+    "grappling": 68,
+    "popularity": 25
+  },
+  "John Castaneda": {
+    "name": "John Castaneda",
+    "division": "Bantamweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 72,
+    "popularity": 35
+  },
+  "Sodiq Yusuff": {
+    "name": "Sodiq Yusuff",
+    "division": "Featherweight",
+    "power": 80,
+    "speed": 85,
+    "grappling": 70,
+    "popularity": 60
+  },
+  "Billy Quarantillo": {
+    "name": "Billy Quarantillo",
+    "division": "Featherweight",
+    "power": 78,
+    "speed": 72,
+    "grappling": 75,
+    "popularity": 33
+  },
+  "JeongYeong Lee": {
+    "name": "JeongYeong Lee",
+    "division": "Featherweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 28
+  },
+  "Kaan Ofli": {
+    "name": "Kaan Ofli",
+    "division": "Featherweight",
+    "power": 75,
+    "speed": 67,
+    "grappling": 69,
+    "popularity": 18
+  },
+  "Charles Jourdain": {
+    "name": "Charles Jourdain",
+    "division": "Bantamweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 40
+  },
+  "Shayilan Nuerdanbieke": {
+    "name": "Shayilan Nuerdanbieke",
+    "division": "Featherweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 80,
+    "popularity": 25
+  },
+  "Gavin Tucker": {
+    "name": "Gavin Tucker",
+    "division": "Featherweight",
+    "power": 79,
+    "speed": 75,
+    "grappling": 75,
+    "popularity": 30
+  },
+  "Yizha": {
+    "name": "Yizha",
+    "division": "Featherweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "Ricardo Ramos": {
+    "name": "Ricardo Ramos",
+    "division": "Featherweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 75,
+    "popularity": 35
+  },
+  "Erik Silva": {
+    "name": "Erik Silva",
+    "division": "Featherweight",
+    "power": 76,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 22
+  },
+  "Merab Dvalishvili": {
+    "name": "Merab Dvalishvili",
+    "division": "Bantamweight",
+    "power": 80,
+    "speed": 85,
+    "grappling": 92,
+    "popularity": 90
+  },
+  "Sean O'Malley": {
+    "name": "Sean O'Malley",
+    "division": "Bantamweight",
+    "power": 85,
+    "speed": 92,
+    "grappling": 68,
+    "popularity": 98
+  },
+  "Umar Nurmagomedov": {
+    "name": "Umar Nurmagomedov",
+    "division": "Bantamweight",
+    "power": 80,
+    "speed": 82,
+    "grappling": 85,
+    "popularity": 78
+  },
+  "Petr Yan": {
+    "name": "Petr Yan",
+    "division": "Bantamweight",
+    "power": 85,
+    "speed": 80,
+    "grappling": 85,
+    "popularity": 80
+  },
+  "Cory Sandhagen": {
+    "name": "Cory Sandhagen",
+    "division": "Bantamweight",
+    "power": 82,
+    "speed": 85,
+    "grappling": 78,
+    "popularity": 82
+  },
+  "Song Yadong": {
+    "name": "Song Yadong",
+    "division": "Bantamweight",
+    "power": 85,
+    "speed": 83,
+    "grappling": 75,
+    "popularity": 70
+  },
+  "Deiveson Figueiredo": {
+    "name": "Deiveson Figueiredo",
+    "division": "Bantamweight",
+    "power": 88,
+    "speed": 80,
+    "grappling": 85,
+    "popularity": 80
+  },
+  "Marlon Vera": {
+    "name": "Marlon Vera",
+    "division": "Bantamweight",
+    "power": 83,
+    "speed": 80,
+    "grappling": 80,
+    "popularity": 78
+  },
+  "Rob Font": {
+    "name": "Rob Font",
+    "division": "Bantamweight",
+    "power": 83,
+    "speed": 80,
+    "grappling": 70,
+    "popularity": 65
+  },
+  "Mario Bautista": {
+    "name": "Mario Bautista",
+    "division": "Bantamweight",
+    "power": 79,
+    "speed": 80,
+    "grappling": 75,
+    "popularity": 50
+  },
+  "Henry Cejudo": {
+    "name": "Henry Cejudo",
+    "division": "Bantamweight",
+    "power": 75,
+    "speed": 78,
+    "grappling": 90,
+    "popularity": 85
+  },
+  "Aiemann Zahabi": {
+    "name": "Aiemann Zahabi",
+    "division": "Bantamweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 68,
+    "popularity": 30
+  },
+  "Kyler Phillips": {
+    "name": "Kyler Phillips",
+    "division": "Bantamweight",
+    "power": 80,
+    "speed": 82,
+    "grappling": 78,
+    "popularity": 55
+  },
+  "Marcus McGhee": {
+    "name": "Marcus McGhee",
+    "division": "Bantamweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 32
+  },
+  "Montel Jackson": {
+    "name": "Montel Jackson",
+    "division": "Bantamweight",
+    "power": 79,
+    "speed": 80,
+    "grappling": 75,
+    "popularity": 48
+  },
+  "Vinicius Oliveira": {
+    "name": "Vinicius Oliveira",
+    "division": "Bantamweight",
+    "power": 80,
+    "speed": 82,
+    "grappling": 68,
+    "popularity": 28
+  },
+  "Raoni Barcelos": {
+    "name": "Raoni Barcelos",
+    "division": "Bantamweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 75,
+    "popularity": 40
+  },
+  "Chris Gutierrez": {
+    "name": "Chris Gutierrez",
+    "division": "Bantamweight",
+    "power": 82,
+    "speed": 80,
+    "grappling": 70,
+    "popularity": 50
+  },
+  "Jonathan Martinez": {
+    "name": "Jonathan Martinez",
+    "division": "Bantamweight",
+    "power": 82,
+    "speed": 80,
+    "grappling": 72,
+    "popularity": 62
+  },
+  "Daniel Marcos": {
+    "name": "Daniel Marcos",
+    "division": "Bantamweight",
+    "power": 80,
+    "speed": 83,
+    "grappling": 68,
+    "popularity": 50
+  },
+  "Farid Basharat": {
+    "name": "Farid Basharat",
+    "division": "Bantamweight",
+    "power": 77,
+    "speed": 78,
+    "grappling": 80,
+    "popularity": 35
+  },
+  "Raul Rosas Jr.": {
+    "name": "Raul Rosas Jr.",
+    "division": "Bantamweight",
+    "power": 78,
+    "speed": 80,
+    "grappling": 85,
+    "popularity": 70
+  },
+  "Said Nurmagomedov": {
+    "name": "Said Nurmagomedov",
+    "division": "Bantamweight",
+    "power": 84,
+    "speed": 85,
+    "grappling": 70,
+    "popularity": 65
+  },
+  "Brady Hiestand": {
+    "name": "Brady Hiestand",
+    "division": "Bantamweight",
+    "power": 75,
+    "speed": 70,
+    "grappling": 80,
+    "popularity": 28
+  },
+  "Payton Talbott": {
+    "name": "Payton Talbott",
+    "division": "Bantamweight",
+    "power": 82,
+    "speed": 85,
+    "grappling": 65,
+    "popularity": 45
+  },
+  "SuYoung You": {
+    "name": "SuYoung You",
+    "division": "Bantamweight",
+    "power": 75,
+    "speed": 70,
+    "grappling": 68,
+    "popularity": 20
+  },
+  "Tim Elliott": {
+    "name": "Tim Elliott",
+    "division": "Flyweight",
+    "power": 75,
+    "speed": 75,
+    "grappling": 78,
+    "popularity": 40
+  },
+  "Cody Garbrandt": {
+    "name": "Cody Garbrandt",
+    "division": "Bantamweight",
+    "power": 88,
+    "speed": 85,
+    "grappling": 65,
+    "popularity": 75
+  },
+  "ChangHo Lee": {
+    "name": "ChangHo Lee",
+    "division": "Bantamweight",
+    "power": 76,
+    "speed": 70,
+    "grappling": 68,
+    "popularity": 22
+  },
+  "Muin Gafurov": {
+    "name": "Muin Gafurov",
+    "division": "Bantamweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 75,
+    "popularity": 30
+  },
+  "Malcolm Wellmaker": {
+    "name": "Malcolm Wellmaker",
+    "division": "Bantamweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 18
+  },
+  "Da'Mon Blackshear": {
+    "name": "Da'Mon Blackshear",
+    "division": "Bantamweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 78,
+    "popularity": 35
+  },
+  "Rinya Nakamura": {
+    "name": "Rinya Nakamura",
+    "division": "Bantamweight",
+    "power": 85,
+    "speed": 80,
+    "grappling": 85,
+    "popularity": 45
+  },
+  "Serhiy Sidey": {
+    "name": "Serhiy Sidey",
+    "division": "Bantamweight",
+    "power": 79,
+    "speed": 78,
+    "grappling": 68,
+    "popularity": 30
+  },
+  "Jean Matsumoto": {
+    "name": "Jean Matsumoto",
+    "division": "Bantamweight",
+    "power": 78,
+    "speed": 72,
+    "grappling": 80,
+    "popularity": 28
+  },
+  "David Martinez": {
+    "name": "David Martinez",
+    "division": "Bantamweight",
+    "power": 76,
+    "speed": 70,
+    "grappling": 68,
+    "popularity": 20
+  },
+  "Aleksandre Topuria": {
+    "name": "Aleksandre Topuria",
+    "division": "Bantamweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 78,
+    "popularity": 30
+  },
+  "Adrian Yanez": {
+    "name": "Adrian Yanez",
+    "division": "Bantamweight",
+    "power": 82,
+    "speed": 82,
+    "grappling": 70,
+    "popularity": 60
+  },
+  "Cody Haddon": {
+    "name": "Cody Haddon",
+    "division": "Bantamweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 18
+  },
+  "Elijah Smith": {
+    "name": "Elijah Smith",
+    "division": "Bantamweight",
+    "power": 76,
+    "speed": 69,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "Davey Grant": {
+    "name": "Davey Grant",
+    "division": "Bantamweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 32
+  },
+  "Victor Henry": {
+    "name": "Victor Henry",
+    "division": "Bantamweight",
+    "power": 78,
+    "speed": 78,
+    "grappling": 75,
+    "popularity": 45
+  },
+  "Carlos Vera": {
+    "name": "Carlos Vera",
+    "division": "Bantamweight",
+    "power": 77,
+    "speed": 72,
+    "grappling": 70,
+    "popularity": 25
+  },
+  "Bekzat Almakhan": {
+    "name": "Bekzat Almakhan",
+    "division": "Bantamweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 28
+  },
+  "Benardo Sopaj": {
+    "name": "Benardo Sopaj",
+    "division": "Bantamweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 18
+  },
+  "Alatengheili": {
+    "name": "Alatengheili",
+    "division": "Bantamweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 78,
+    "popularity": 35
+  },
+  "Pedro Munhoz": {
+    "name": "Pedro Munhoz",
+    "division": "Bantamweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 78,
+    "popularity": 55
+  },
+  "Xiao Long": {
+    "name": "Xiao Long",
+    "division": "Bantamweight",
+    "power": 75,
+    "speed": 67,
+    "grappling": 69,
+    "popularity": 18
+  },
+  "Patchy Mix": {
+    "name": "Patchy Mix",
+    "division": "Bantamweight",
+    "power": 82,
+    "speed": 80,
+    "grappling": 90,
+    "popularity": 80
+  },
+  "Aoriqileng": {
+    "name": "Aoriqileng",
+    "division": "Bantamweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 30
+  },
+  "Ricky Simon": {
+    "name": "Ricky Simon",
+    "division": "Bantamweight",
+    "power": 78,
+    "speed": 78,
+    "grappling": 85,
+    "popularity": 50
+  },
+  "Quang Le": {
+    "name": "Quang Le",
+    "division": "Bantamweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 60,
+    "popularity": 25
+  },
+  "Colby Thicknesse": {
+    "name": "Colby Thicknesse",
+    "division": "Bantamweight",
+    "power": 74,
+    "speed": 67,
+    "grappling": 69,
+    "popularity": 18
+  },
+  "Baergeng Jieleyisi": {
+    "name": "Baergeng Jieleyisi",
+    "division": "Bantamweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 18
+  },
+  "Gaston Bolanos": {
+    "name": "Gaston Bolanos",
+    "division": "Bantamweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 60,
+    "popularity": 25
+  },
+  "Ramon Taveras": {
+    "name": "Ramon Taveras",
+    "division": "Bantamweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 28
+  },
+  "Douglas Silva de Andrade": {
+    "name": "Douglas Silva de Andrade",
+    "division": "Bantamweight",
+    "power": 82,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 40
+  },
+  "Steven Koslow": {
+    "name": "Steven Koslow",
+    "division": "Bantamweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 80,
+    "popularity": 25
+  },
+  "Angel Pacheco": {
+    "name": "Angel Pacheco",
+    "division": "Bantamweight",
+    "power": 75,
+    "speed": 67,
+    "grappling": 69,
+    "popularity": 18
+  },
+  "Josias Musasa": {
+    "name": "Josias Musasa",
+    "division": "Bantamweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 18
+  },
+  "Toshiomi Kazama": {
+    "name": "Toshiomi Kazama",
+    "division": "Bantamweight",
+    "power": 76,
+    "speed": 70,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "Frankie Saenz": {
+    "name": "Frankie Saenz",
+    "division": "Bantamweight",
+    "power": 77,
+    "speed": 72,
+    "grappling": 72,
+    "popularity": 30
+  },
+  "Rani Yahya": {
+    "name": "Rani Yahya",
+    "division": "Bantamweight",
+    "power": 70,
+    "speed": 65,
+    "grappling": 90,
+    "popularity": 30
+  },
+  "Matt Schnell": {
+    "name": "Matt Schnell",
+    "division": "Flyweight",
+    "power": 78,
+    "speed": 78,
+    "grappling": 75,
+    "popularity": 45
+  },
+  "Ricky Turcios": {
+    "name": "Ricky Turcios",
+    "division": "Bantamweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 30
+  },
+  "Cristian Quinonez": {
+    "name": "Cristian Quinonez",
+    "division": "Bantamweight",
+    "power": 79,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 30
+  },
+  "Javid Basharat": {
+    "name": "Javid Basharat",
+    "division": "Bantamweight",
+    "power": 78,
+    "speed": 80,
+    "grappling": 78,
+    "popularity": 40
+  },
+  "Chad Anheliger": {
+    "name": "Chad Anheliger",
+    "division": "Bantamweight",
+    "power": 77,
+    "speed": 72,
+    "grappling": 70,
+    "popularity": 28
+  },
+  "Cody Gibson": {
+    "name": "Cody Gibson",
+    "division": "Bantamweight",
+    "power": 79,
+    "speed": 75,
+    "grappling": 68,
+    "popularity": 30
+  },
+  "Brad Katona": {
+    "name": "Brad Katona",
+    "division": "Bantamweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 75,
+    "popularity": 35
+  },
+  "Garrett Armfield": {
+    "name": "Garrett Armfield",
+    "division": "Bantamweight",
+    "power": 76,
+    "speed": 70,
+    "grappling": 78,
+    "popularity": 25
+  },
+  "Luan Lacerda": {
+    "name": "Luan Lacerda",
+    "division": "Bantamweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 80,
+    "popularity": 25
+  },
+  "Cameron Smotherman": {
+    "name": "Cameron Smotherman",
+    "division": "Bantamweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 18
+  },
+  "Kris Moutinho": {
+    "name": "Kris Moutinho",
+    "division": "Bantamweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 68,
+    "popularity": 28
+  },
+  "Saimon Oliveira": {
+    "name": "Saimon Oliveira",
+    "division": "Bantamweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 65,
+    "popularity": 28
+  },
+  "Cameron Saaiman": {
+    "name": "Cameron Saaiman",
+    "division": "Bantamweight",
+    "power": 80,
+    "speed": 82,
+    "grappling": 70,
+    "popularity": 45
+  },
+  "Vince Morales": {
+    "name": "Vince Morales",
+    "division": "Bantamweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 65,
+    "popularity": 30
+  },
+  "Alexandre Pantoja": {
+    "name": "Alexandre Pantoja",
+    "division": "Flyweight",
+    "power": 85,
+    "speed": 85,
+    "grappling": 90,
+    "popularity": 88
+  },
+  "Brandon Moreno": {
+    "name": "Brandon Moreno",
+    "division": "Flyweight",
+    "power": 83,
+    "speed": 80,
+    "grappling": 85,
+    "popularity": 85
+  },
+  "Brandon Royval": {
+    "name": "Brandon Royval",
+    "division": "Flyweight",
+    "power": 82,
+    "speed": 88,
+    "grappling": 82,
+    "popularity": 75
+  },
+  "Manel Kape": {
+    "name": "Manel Kape",
+    "division": "Flyweight",
+    "power": 85,
+    "speed": 88,
+    "grappling": 70,
+    "popularity": 72
+  },
+  "Amir Albazi": {
+    "name": "Amir Albazi",
+    "division": "Flyweight",
+    "power": 80,
+    "speed": 80,
+    "grappling": 88,
+    "popularity": 70
+  },
+  "Ramazan Temirov": {
+    "name": "Ramazan Temirov",
+    "division": "Flyweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 78,
+    "popularity": 25
+  },
+  "Tatsuro Taira": {
+    "name": "Tatsuro Taira",
+    "division": "Flyweight",
+    "power": 78,
+    "speed": 80,
+    "grappling": 85,
+    "popularity": 68
+  },
+  "Kai Kara-France": {
+    "name": "Kai Kara-France",
+    "division": "Flyweight",
+    "power": 82,
+    "speed": 85,
+    "grappling": 75,
+    "popularity": 68
+  },
+  "Joshua Van": {
+    "name": "Joshua Van",
+    "division": "Flyweight",
+    "power": 78,
+    "speed": 80,
+    "grappling": 70,
+    "popularity": 30
+  },
+  "Tagir Ulanbekov": {
+    "name": "Tagir Ulanbekov",
+    "division": "Flyweight",
+    "power": 78,
+    "speed": 78,
+    "grappling": 85,
+    "popularity": 50
+  },
+  "Allan Nascimento": {
+    "name": "Allan Nascimento",
+    "division": "Flyweight",
+    "power": 75,
+    "speed": 78,
+    "grappling": 85,
+    "popularity": 40
+  },
+  "Andre Lima": {
+    "name": "Andre Lima",
+    "division": "Flyweight",
+    "power": 80,
+    "speed": 82,
+    "grappling": 70,
+    "popularity": 30
+  },
+  "HyunSung Park": {
+    "name": "HyunSung Park",
+    "division": "Flyweight",
+    "power": 77,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 28
+  },
+  "Charles Johnson": {
+    "name": "Charles Johnson",
+    "division": "Flyweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 28
+  },
+  "Rafael Estevam": {
+    "name": "Rafael Estevam",
+    "division": "Flyweight",
+    "power": 79,
+    "speed": 75,
+    "grappling": 75,
+    "popularity": 28
+  },
+  "Lone'er Kavanagh": {
+    "name": "Lone'er Kavanagh",
+    "division": "Flyweight",
+    "power": 76,
+    "speed": 78,
+    "grappling": 68,
+    "popularity": 25
+  },
+  "Asu Almabayev": {
+    "name": "Asu Almabayev",
+    "division": "Flyweight",
+    "power": 77,
+    "speed": 75,
+    "grappling": 82,
+    "popularity": 35
+  },
+  "Clayton Carpenter": {
+    "name": "Clayton Carpenter",
+    "division": "Flyweight",
+    "power": 75,
+    "speed": 75,
+    "grappling": 75,
+    "popularity": 22
+  },
+  "DongHun Choi": {
+    "name": "DongHun Choi",
+    "division": "Flyweight",
+    "power": 75,
+    "speed": 70,
+    "grappling": 68,
+    "popularity": 20
+  },
+  "Alessandro Costa": {
+    "name": "Alessandro Costa",
+    "division": "Flyweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 72,
+    "popularity": 30
+  },
+  "Edgar Chairez": {
+    "name": "Edgar Chairez",
+    "division": "Flyweight",
+    "power": 77,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 25
+  },
+  "Jafel Filho": {
+    "name": "Jafel Filho",
+    "division": "Flyweight",
+    "power": 79,
+    "speed": 72,
+    "grappling": 80,
+    "popularity": 32
+  },
+  "Felipe Bunes": {
+    "name": "Felipe Bunes",
+    "division": "Flyweight",
+    "power": 78,
+    "speed": 80,
+    "grappling": 75,
+    "popularity": 32
+  },
+  "Kevin Borjas": {
+    "name": "Kevin Borjas",
+    "division": "Flyweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 65,
+    "popularity": 30
+  },
+  "Rei Tsuruya": {
+    "name": "Rei Tsuruya",
+    "division": "Flyweight",
+    "power": 78,
+    "speed": 80,
+    "grappling": 75,
+    "popularity": 30
+  },
+  "Kai Asakura": {
+    "name": "Kai Asakura",
+    "division": "Flyweight",
+    "power": 85,
+    "speed": 88,
+    "grappling": 75,
+    "popularity": 70
+  },
+  "Jose Ochoa": {
+    "name": "Jose Ochoa",
+    "division": "Flyweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 18
+  },
+  "Jesus Aguilar": {
+    "name": "Jesus Aguilar",
+    "division": "Flyweight",
+    "power": 76,
+    "speed": 70,
+    "grappling": 78,
+    "popularity": 25
+  },
+  "Stewart Nicoll": {
+    "name": "Stewart Nicoll",
+    "division": "Flyweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 18
+  },
+  "Lucas Rocha": {
+    "name": "Lucas Rocha",
+    "division": "Flyweight",
+    "power": 77,
+    "speed": 72,
+    "grappling": 75,
+    "popularity": 20
+  },
+  "Azat Maksum": {
+    "name": "Azat Maksum",
+    "division": "Flyweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 80,
+    "popularity": 35
+  },
+  "SeungGuk Choi": {
+    "name": "SeungGuk Choi",
+    "division": "Flyweight",
+    "power": 77,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 28
+  },
+  "Alex Perez": {
+    "name": "Alex Perez",
+    "division": "Flyweight",
+    "power": 80,
+    "speed": 80,
+    "grappling": 75,
+    "popularity": 60
+  },
+  "Ronaldo Rodriguez": {
+    "name": "Ronaldo Rodriguez",
+    "division": "Flyweight",
+    "power": 76,
+    "speed": 70,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "Kiru Sahota": {
+    "name": "Kiru Sahota",
+    "division": "Flyweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 68,
+    "popularity": 18
+  },
+  "Nyamjargal Tumendemberel": {
+    "name": "Nyamjargal Tumendemberel",
+    "division": "Flyweight",
+    "power": 76,
+    "speed": 72,
+    "grappling": 70,
+    "popularity": 20
+  },
+  "Ode Osbourne": {
+    "name": "Ode Osbourne",
+    "division": "Flyweight",
+    "power": 80,
+    "speed": 85,
+    "grappling": 65,
+    "popularity": 40
+  },
+  "Daniel Barez": {
+    "name": "Daniel Barez",
+    "division": "Flyweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 70,
+    "popularity": 28
+  },
+  "Sumudaerji": {
+    "name": "Sumudaerji",
+    "division": "Flyweight",
+    "power": 85,
+    "speed": 85,
+    "grappling": 65,
+    "popularity": 50
+  },
+  "Luis Gurule": {
+    "name": "Luis Gurule",
+    "division": "Flyweight",
+    "power": 75,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 18
+  },
+  "Felipe dos Santos": {
+    "name": "Felipe dos Santos",
+    "division": "Flyweight",
+    "power": 79,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 30
+  },
+  "Mitch Raposo": {
+    "name": "Mitch Raposo",
+    "division": "Flyweight",
+    "power": 76,
+    "speed": 70,
+    "grappling": 75,
+    "popularity": 25
+  },
+  "Steve Erceg": {
+    "name": "Steve Erceg",
+    "division": "Flyweight",
+    "power": 80,
+    "speed": 82,
+    "grappling": 80,
+    "popularity": 65
+  },
+  "Cody Durden": {
+    "name": "Cody Durden",
+    "division": "Flyweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 80,
+    "popularity": 38
+  },
+  "Valentina Shevchenko": {
+    "name": "Valentina Shevchenko",
+    "division": "Women's Flyweight",
+    "power": 85,
+    "speed": 88,
+    "grappling": 90,
+    "popularity": 65
+  },
+  "Natalia Silva": {
+    "name": "Natalia Silva",
+    "division": "Women's Flyweight",
+    "power": 80,
+    "speed": 85,
+    "grappling": 82,
+    "popularity": 45
+  },
+  "Manon Fiorot": {
+    "name": "Manon Fiorot",
+    "division": "Women's Flyweight",
+    "power": 83,
+    "speed": 85,
+    "grappling": 78,
+    "popularity": 46
+  },
+  "Alexa Grasso": {
+    "name": "Alexa Grasso",
+    "division": "Women's Flyweight",
+    "power": 80,
+    "speed": 82,
+    "grappling": 85,
+    "popularity": 67
+  },
+  "Erin Blanchfield": {
+    "name": "Erin Blanchfield",
+    "division": "Women's Flyweight",
+    "power": 78,
+    "speed": 80,
+    "grappling": 92,
+    "popularity": 48
+  },
+  "Maycee Barber": {
+    "name": "Maycee Barber",
+    "division": "Women's Flyweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 80,
+    "popularity": 75
+  },
+  "Jasmine Jasudavicius": {
+    "name": "Jasmine Jasudavicius",
+    "division": "Women's Flyweight",
+    "power": 75,
+    "speed": 70,
+    "grappling": 85,
+    "popularity": 23
+  },
+  "Rose Namajunas": {
+    "name": "Rose Namajunas",
+    "division": "Women's Flyweight",
+    "power": 78,
+    "speed": 85,
+    "grappling": 75,
+    "popularity": 70
+  },
+  "Viviane Araujo": {
+    "name": "Viviane Araujo",
+    "division": "Women's Flyweight",
+    "power": 76,
+    "speed": 75,
+    "grappling": 80,
+    "popularity": 38
+  },
+  "Jessica Andrade": {
+    "name": "Jessica Andrade",
+    "division": "Women's Flyweight",
+    "power": 85,
+    "speed": 80,
+    "grappling": 85,
+    "popularity": 29
+  },
+  "Tracy Cortez": {
+    "name": "Tracy Cortez",
+    "division": "Women's Flyweight",
+    "power": 75,
+    "speed": 72,
+    "grappling": 80,
+    "popularity": 49
+  },
+  "Miranda Maverick": {
+    "name": "Miranda Maverick",
+    "division": "Women's Flyweight",
+    "power": 74,
+    "speed": 72,
+    "grappling": 78,
+    "popularity": 39
+  },
+  "Karine Silva": {
+    "name": "Karine Silva",
+    "division": "Women's Flyweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 82,
+    "popularity": 38
+  },
+  "Casey O'Neill": {
+    "name": "Casey O'Neill",
+    "division": "Women's Flyweight",
+    "power": 77,
+    "speed": 75,
+    "grappling": 80,
+    "popularity": 39
+  },
+  "Wang Cong": {
+    "name": "Wang Cong",
+    "division": "Women's Flyweight",
+    "power": 70,
+    "speed": 68,
+    "grappling": 65,
+    "popularity": 30
+  },
+  "JJ Aldrich": {
+    "name": "JJ Aldrich",
+    "division": "Women's Flyweight",
+    "power": 73,
+    "speed": 70,
+    "grappling": 70,
+    "popularity": 28
+  },
+  "Eduarda Moura": {
+    "name": "Eduarda Moura",
+    "division": "Women's Flyweight",
+    "power": 72,
+    "speed": 68,
+    "grappling": 75,
+    "popularity": 38
+  },
+  "Gabriella Fernandes": {
+    "name": "Gabriella Fernandes",
+    "division": "Women's Flyweight",
+    "power": 70,
+    "speed": 68,
+    "grappling": 65,
+    "popularity": 35
+  },
+  "Katlyn Cerminara": {
+    "name": "Katlyn Cerminara",
+    "division": "Women's Flyweight",
+    "power": 75,
+    "speed": 70,
+    "grappling": 72,
+    "popularity": 33
+  },
+  "Luana Carolina": {
+    "name": "Luana Carolina",
+    "division": "Women's Flyweight",
+    "power": 70,
+    "speed": 68,
+    "grappling": 65,
+    "popularity": 30
+  },
+  "Tereza Bleda": {
+    "name": "Tereza Bleda",
+    "division": "Women's Flyweight",
+    "power": 68,
+    "speed": 65,
+    "grappling": 70,
+    "popularity": 28
+  },
+  "Carli Judice": {
+    "name": "Carli Judice",
+    "division": "Women's Flyweight",
+    "power": 67,
+    "speed": 65,
+    "grappling": 68,
+    "popularity": 27
+  },
+  "Ernesta Kareckaite": {
+    "name": "Ernesta Kareckaite",
+    "division": "Women's Flyweight",
+    "power": 69,
+    "speed": 66,
+    "grappling": 65,
+    "popularity": 26
+  },
+  "Dione Barbosa": {
+    "name": "Dione Barbosa",
+    "division": "Women's Flyweight",
+    "power": 69,
+    "speed": 67,
+    "grappling": 70,
+    "popularity": 25
+  },
+  "Luana Santos": {
+    "name": "Luana Santos",
+    "division": "Women's Flyweight",
+    "power": 70,
+    "speed": 68,
+    "grappling": 68,
+    "popularity": 28
+  },
+  "Amanda Ribas": {
+    "name": "Amanda Ribas",
+    "division": "Women's Strawweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 80,
+    "popularity": 52
+  },
+  "Jamey-Lyn Horth": {
+    "name": "Jamey-Lyn Horth",
+    "division": "Women's Flyweight",
+    "power": 70,
+    "speed": 68,
+    "grappling": 72,
+    "popularity": 15
+  },
+  "Veronica Hardy": {
+    "name": "Veronica Hardy",
+    "division": "Women's Flyweight",
+    "power": 70,
+    "speed": 65,
+    "grappling": 75,
+    "popularity": 15
+  },
+  "Julija Stoliarenko": {
+    "name": "Julija Stoliarenko",
+    "division": "Women's Flyweight",
+    "power": 68,
+    "speed": 65,
+    "grappling": 70,
+    "popularity": 28
+  },
+  "Nicolle Caliari": {
+    "name": "Nicolle Caliari",
+    "division": "Women's Flyweight",
+    "power": 69,
+    "speed": 67,
+    "grappling": 68,
+    "popularity": 29
+  },
+  "Bruna Brasil": {
+    "name": "Bruna Brasil",
+    "division": "Women's Strawweight",
+    "power": 72,
+    "speed": 70,
+    "grappling": 65,
+    "popularity": 30
+  },
+  "Fatima Kline": {
+    "name": "Fatima Kline",
+    "division": "Women's Strawweight",
+    "power": 65,
+    "speed": 65,
+    "grappling": 70,
+    "popularity": 25
+  },
+  "Yuneisy Duben": {
+    "name": "Yuneisy Duben",
+    "division": "Women's Flyweight",
+    "power": 66,
+    "speed": 64,
+    "grappling": 68,
+    "popularity": 24
+  },
+  "Melissa Gatto": {
+    "name": "Melissa Gatto",
+    "division": "Women's Flyweight",
+    "power": 74,
+    "speed": 70,
+    "grappling": 75,
+    "popularity": 18
+  },
+  "Brogan Walker": {
+    "name": "Brogan Walker",
+    "division": "Women's Flyweight",
+    "power": 68,
+    "speed": 62,
+    "grappling": 65,
+    "popularity": 22
+  },
+  "Juliana Miller": {
+    "name": "Juliana Miller",
+    "division": "Women's Flyweight",
+    "power": 65,
+    "speed": 60,
+    "grappling": 70,
+    "popularity": 18
+  },
+  "Maryna Moroz": {
+    "name": "Maryna Moroz",
+    "division": "Women's Flyweight",
+    "power": 70,
+    "speed": 68,
+    "grappling": 72,
+    "popularity": 17
+  },
+  "Vanessa Demopoulos": {
+    "name": "Vanessa Demopoulos",
+    "division": "Women's Strawweight",
+    "power": 70,
+    "speed": 68,
+    "grappling": 75,
+    "popularity": 30
+  },
+  "Ariane da Silva": {
+    "name": "Ariane da Silva",
+    "division": "Women's Flyweight",
+    "power": 72,
+    "speed": 70,
+    "grappling": 68,
+    "popularity": 13
+  },
+  "Zhang Weili": {
+    "name": "Zhang Weili",
+    "division": "Women's Strawweight",
+    "power": 90,
+    "speed": 88,
+    "grappling": 85,
+    "popularity": 70
+  },
+  "Virna Jandiroba": {
+    "name": "Virna Jandiroba",
+    "division": "Women's Strawweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 90,
+    "popularity": 59
+  },
+  "Tatiana Suarez": {
+    "name": "Tatiana Suarez",
+    "division": "Women's Strawweight",
+    "power": 80,
+    "speed": 80,
+    "grappling": 95,
+    "popularity": 57
+  },
+  "Yan Xiaonan": {
+    "name": "Yan Xiaonan",
+    "division": "Women's Strawweight",
+    "power": 85,
+    "speed": 82,
+    "grappling": 70,
+    "popularity": 56
+  },
+  "Amanda Lemos": {
+    "name": "Amanda Lemos",
+    "division": "Women's Strawweight",
+    "power": 88,
+    "speed": 80,
+    "grappling": 75,
+    "popularity": 57
+  },
+  "Mackenzie Dern": {
+    "name": "Mackenzie Dern",
+    "division": "Women's Strawweight",
+    "power": 70,
+    "speed": 68,
+    "grappling": 92,
+    "popularity": 52
+  },
+  "Iasmin Lucindo": {
+    "name": "Iasmin Lucindo",
+    "division": "Women's Strawweight",
+    "power": 75,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 55
+  },
+  "Gillian Robertson": {
+    "name": "Gillian Robertson",
+    "division": "Women's Strawweight",
+    "power": 70,
+    "speed": 68,
+    "grappling": 85,
+    "popularity": 53
+  },
+  "Tabatha Ricci": {
+    "name": "Tabatha Ricci",
+    "division": "Women's Strawweight",
+    "power": 72,
+    "speed": 75,
+    "grappling": 80,
+    "popularity": 58
+  },
+  "Loopy Godinez": {
+    "name": "Loopy Godinez",
+    "division": "Women's Strawweight",
+    "power": 73,
+    "speed": 72,
+    "grappling": 78,
+    "popularity": 52
+  },
+  "Angela Hill": {
+    "name": "Angela Hill",
+    "division": "Women's Strawweight",
+    "power": 75,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 53
+  },
+  "Tecia Pennington": {
+    "name": "Tecia Pennington",
+    "division": "Women's Strawweight",
+    "power": 70,
+    "speed": 75,
+    "grappling": 72,
+    "popularity": 53
+  },
+  "Loma Lookboonmee": {
+    "name": "Loma Lookboonmee",
+    "division": "Women's Strawweight",
+    "power": 75,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 53
+  },
+  "Denise Gomes": {
+    "name": "Denise Gomes",
+    "division": "Women's Strawweight",
+    "power": 70,
+    "speed": 72,
+    "grappling": 68,
+    "popularity": 45
+  },
+  "Ketlen Souza": {
+    "name": "Ketlen Souza",
+    "division": "Women's Strawweight",
+    "power": 72,
+    "speed": 70,
+    "grappling": 70,
+    "popularity": 42
+  },
+  "Shi Ming": {
+    "name": "Shi Ming",
+    "division": "Women's Strawweight",
+    "power": 68,
+    "speed": 65,
+    "grappling": 65,
+    "popularity": 28
+  },
+  "Alexia Thainara": {
+    "name": "Alexia Thainara",
+    "division": "Women's Strawweight",
+    "power": 67,
+    "speed": 65,
+    "grappling": 68,
+    "popularity": 27
+  },
+  "Shauna Bannon": {
+    "name": "Shauna Bannon",
+    "division": "Women's Strawweight",
+    "power": 65,
+    "speed": 68,
+    "grappling": 60,
+    "popularity": 25
+  },
+  "Piera Rodriguez": {
+    "name": "Piera Rodriguez",
+    "division": "Women's Strawweight",
+    "power": 70,
+    "speed": 68,
+    "grappling": 72,
+    "popularity": 30
+  },
+  "Mizuki": {
+    "name": "Mizuki",
+    "division": "Women's Strawweight",
+    "power": 68,
+    "speed": 65,
+    "grappling": 70,
+    "popularity": 28
+  },
+  "Talita Alencar": {
+    "name": "Talita Alencar",
+    "division": "Women's Strawweight",
+    "power": 67,
+    "speed": 65,
+    "grappling": 75,
+    "popularity": 25
+  },
+  "Ariane Carnelossi": {
+    "name": "Ariane Carnelossi",
+    "division": "Women's Strawweight",
+    "power": 70,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 30
+  },
+  "Yazmin Jauregui": {
+    "name": "Yazmin Jauregui",
+    "division": "Women's Strawweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 65,
+    "popularity": 45
+  },
+  "Stephanie Luciano": {
+    "name": "Stephanie Luciano",
+    "division": "Women's Strawweight",
+    "power": 70,
+    "speed": 68,
+    "grappling": 68,
+    "popularity": 28
+  },
+  "Julia Polastri": {
+    "name": "Julia Polastri",
+    "division": "Women's Strawweight",
+    "power": 68,
+    "speed": 65,
+    "grappling": 70,
+    "popularity": 27
+  },
+  "Melissa Martinez": {
+    "name": "Melissa Martinez",
+    "division": "Women's Strawweight",
+    "power": 72,
+    "speed": 70,
+    "grappling": 68,
+    "popularity": 32
+  },
+  "Cheyanne Vlismas": {
+    "name": "Cheyanne Vlismas",
+    "division": "Women's Strawweight",
+    "power": 70,
+    "speed": 68,
+    "grappling": 70,
+    "popularity": 30
+  },
+  "Feng Xiaocan": {
+    "name": "Feng Xiaocan",
+    "division": "Women's Strawweight",
+    "power": 65,
+    "speed": 62,
+    "grappling": 65,
+    "popularity": 20
+  },
+  "Puja Tomar": {
+    "name": "Puja Tomar",
+    "division": "Women's Strawweight",
+    "power": 60,
+    "speed": 60,
+    "grappling": 60,
+    "popularity": 15
+  },
+  "Elise Reed": {
+    "name": "Elise Reed",
+    "division": "Women's Strawweight",
+    "power": 68,
+    "speed": 65,
+    "grappling": 65,
+    "popularity": 25
+  },
+  "Marnic Mann": {
+    "name": "Marnic Mann",
+    "division": "Women's Strawweight",
+    "power": 65,
+    "speed": 62,
+    "grappling": 68,
+    "popularity": 22
+  },
+  "Alice Ardelean": {
+    "name": "Alice Ardelean",
+    "division": "Women's Strawweight",
+    "power": 66,
+    "speed": 63,
+    "grappling": 65,
+    "popularity": 21
+  },
+  "Karolina Kowalkiewicz": {
+    "name": "Karolina Kowalkiewicz",
+    "division": "Women's Strawweight",
+    "power": 70,
+    "speed": 72,
+    "grappling": 65,
+    "popularity": 50
+  },
+  "Luana Pinheiro": {
+    "name": "Luana Pinheiro",
+    "division": "Women's Strawweight",
+    "power": 75,
+    "speed": 70,
+    "grappling": 78,
+    "popularity": 40
+  },
+  "Montserrat Conejo Ruiz": {
+    "name": "Montserrat Conejo Ruiz",
+    "division": "Women's Strawweight",
+    "power": 68,
+    "speed": 65,
+    "grappling": 70,
+    "popularity": 25
+  },
+  "Polyana Viana": {
+    "name": "Polyana Viana",
+    "division": "Women's Strawweight",
+    "power": 70,
+    "speed": 68,
+    "grappling": 75,
+    "popularity": 30
+  },
+  "Rayanne dos Santos": {
+    "name": "Rayanne dos Santos",
+    "division": "Women's Strawweight",
+    "power": 67,
+    "speed": 65,
+    "grappling": 68,
+    "popularity": 24
+  },
+  "Kayla Harrison": {
+    "name": "Kayla Harrison",
+    "division": "Women's Bantamweight",
+    "power": 88,
+    "speed": 80,
+    "grappling": 95,
+    "popularity": 67
+  },
+  "Julianna Pena": {
+    "name": "Julianna Pena",
+    "division": "Women's Bantamweight",
+    "power": 82,
+    "speed": 78,
+    "grappling": 88,
+    "popularity": 63
+  },
+  "Raquel Pennington": {
+    "name": "Raquel Pennington",
+    "division": "Women's Bantamweight",
+    "power": 80,
+    "speed": 78,
+    "grappling": 85,
+    "popularity": 68
+  },
+  "Ketlen Vieira": {
+    "name": "Ketlen Vieira",
+    "division": "Women's Bantamweight",
+    "power": 78,
+    "speed": 75,
+    "grappling": 88,
+    "popularity": 56
+  },
+  "Norma Dumont": {
+    "name": "Norma Dumont",
+    "division": "Women's Bantamweight",
+    "power": 82,
+    "speed": 78,
+    "grappling": 75,
+    "popularity": 53
+  },
+  "Macy Chiasson": {
+    "name": "Macy Chiasson",
+    "division": "Women's Bantamweight",
+    "power": 79,
+    "speed": 76,
+    "grappling": 78,
+    "popularity": 53
+  },
+  "Irene Aldana": {
+    "name": "Irene Aldana",
+    "division": "Women's Bantamweight",
+    "power": 85,
+    "speed": 80,
+    "grappling": 70,
+    "popularity": 57
+  },
+  "Ailin Perez": {
+    "name": "Ailin Perez",
+    "division": "Women's Bantamweight",
+    "power": 77,
+    "speed": 75,
+    "grappling": 78,
+    "popularity": 50
+  },
+  "Mayra Bueno Silva": {
+    "name": "Mayra Bueno Silva",
+    "division": "Women's Bantamweight",
+    "power": 80,
+    "speed": 75,
+    "grappling": 82,
+    "popularity": 52
+  },
+  "Yana Santos": {
+    "name": "Yana Santos",
+    "division": "Women's Bantamweight",
+    "power": 77,
+    "speed": 75,
+    "grappling": 80,
+    "popularity": 45
+  },
+  "Jacqueline Cavalcanti": {
+    "name": "Jacqueline Cavalcanti",
+    "division": "Women's Bantamweight",
+    "power": 75,
+    "speed": 75,
+    "grappling": 75,
+    "popularity": 30
+  },
+  "Nora Cornolle": {
+    "name": "Nora Cornolle",
+    "division": "Women's Bantamweight",
+    "power": 75,
+    "speed": 75,
+    "grappling": 75,
+    "popularity": 30
+  },
+  "Miesha Tate": {
+    "name": "Miesha Tate",
+    "division": "Women's Bantamweight",
+    "power": 76,
+    "speed": 72,
+    "grappling": 85,
+    "popularity": 40
+  },
+  "Joselyne Edwards": {
+    "name": "Joselyne Edwards",
+    "division": "Women's Bantamweight",
+    "power": 75,
+    "speed": 76,
+    "grappling": 70,
+    "popularity": 45
+  },
+  "Chelsea Chandler": {
+    "name": "Chelsea Chandler",
+    "division": "Women's Bantamweight",
+    "power": 76,
+    "speed": 74,
+    "grappling": 75,
+    "popularity": 40
+  },
+  "Daria Zhelezniakova": {
+    "name": "Daria Zhelezniakova",
+    "division": "Women's Bantamweight",
+    "power": 74,
+    "speed": 72,
+    "grappling": 76,
+    "popularity": 45
+  },
+  "Montserrat Rendon": {
+    "name": "Montserrat Rendon",
+    "division": "Women's Bantamweight",
+    "power": 73,
+    "speed": 70,
+    "grappling": 75,
+    "popularity": 42
+  },
+  "Ravena Oliveira": {
+    "name": "Ravena Oliveira",
+    "division": "Women's Bantamweight",
+    "power": 72,
+    "speed": 70,
+    "grappling": 74,
+    "popularity": 38
+  },
+  "Melissa Mullins": {
+    "name": "Melissa Mullins",
+    "division": "Women's Bantamweight",
+    "power": 75,
+    "speed": 73,
+    "grappling": 70,
+    "popularity": 40
+  },
+  "Priscila Cachoeira": {
+    "name": "Priscila Cachoeira",
+    "division": "Women's Bantamweight",
+    "power": 78,
+    "speed": 70,
+    "grappling": 65,
+    "popularity": 50
+  },
+  "Tainara Lisboa": {
+    "name": "Tainara Lisboa",
+    "division": "Women's Bantamweight",
+    "power": 74,
+    "speed": 75,
+    "grappling": 72,
+    "popularity": 40
+  },
+  "Irina Alekseeva": {
+    "name": "Irina Alekseeva",
+    "division": "Women's Bantamweight",
+    "power": 76,
+    "speed": 70,
+    "grappling": 78,
+    "popularity": 48
+  },
+  "Klaudia Sygula": {
+    "name": "Klaudia Sygula",
+    "division": "Women's Bantamweight",
+    "power": 72,
+    "speed": 70,
+    "grappling": 72,
+    "popularity": 35
+  },
+  "Hailey Cowan": {
+    "name": "Hailey Cowan",
+    "division": "Women's Bantamweight",
+    "power": 73,
+    "speed": 72,
+    "grappling": 70,
+    "popularity": 38
+  },
+  "Josiane Nunes": {
+    "name": "Josiane Nunes",
+    "division": "Women's Bantamweight",
+    "power": 79,
+    "speed": 78,
+    "grappling": 70,
+    "popularity": 55
+  }
+}
